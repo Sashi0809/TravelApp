@@ -1,0 +1,1201 @@
+name,budget,placeType,travelers,duration,description,latitude,longitude
+Paris 2,1803,City,Family,5,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",48.8738,2.3415
+Bhutan 4,622,Nature,Solo,4,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,27.549,90.4749
+Toronto,3732,City,Couple,12,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",43.6725,-79.4057
+Canada Wilderness,1153,Nature,Solo,9,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",51.1303,-115.5689
+Manali 6,2256,Mountains,Solo,3,A mountain retreat with fresh air and adventure activities. Good for independent travel.,32.2519,77.1966
+Chicago 2,2996,City,Friends,3,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",41.8443,-87.6595
+Madagascar,784,Nature,Couple,3,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-18.9632,46.4016
+Amsterdam,2657,City,Family,12,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",52.3921,4.8703
+Cancun,5990,Beach,Solo,5,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",21.1595,-86.8315
+Istanbul Old Town,1928,Historical,Couple,8,A destination full of ancient sites and local history. Great for romantic trips.,50.0634,19.9346
+Istanbul Old Town East,1464,Historical,Solo,6,A destination full of ancient sites and local history. Good for independent travel.,50.0774,19.9101
+Petra,1171,Historical,Family,3,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",30.302,35.4257
+Bhutan South,1982,Nature,Friends,6,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",27.5129,90.5179
+Edinburgh 7,1426,City,Solo,12,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",55.9158,-3.1913
+Prague Old Town,2767,Historical,Friends,4,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",50.1255,14.3971
+Canada Wilderness West,956,Nature,Family,7,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",51.1748,-115.619
+Ooty Hills 9,2779,Mountains,Couple,3,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",11.3633,76.7266
+Mauritius Central,5418,Beach,Couple,3,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-20.2809,57.5551
+Zurich 4,2059,City,Family,5,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",47.4206,8.4942
+Chicago South,1083,City,Friends,10,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.845,-87.6118
+Cancun,2735,Beach,Friends,6,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",21.152,-86.8582
+Andaman Islands,1515,Nature,Solo,6,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,12.5684,92.8309
+Sri Lanka Rainforest,529,Nature,Couple,4,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",6.4297,80.4986
+Aspen,1840,Mountains,Couple,9,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",39.1872,-106.7789
+Galapagos,1495,Nature,Friends,10,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",40.7043,-3.3112
+Ephesus,2283,Historical,Friends,5,A destination full of ancient sites and local history. Fun for group travel and activities.,37.9734,27.3554
+Manali,1484,Mountains,Couple,5,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,32.2359,77.1551
+Cancun,3046,Beach,Friends,4,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,21.1488,-86.8724
+Costa Rica West,1468,Nature,Solo,5,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",10.2329,-84.0261
+Athens West,2152,Historical,Couple,2,A destination full of ancient sites and local history. Great for romantic trips.,33.9187,-83.3958
+Angkor Wat,1234,Historical,Friends,3,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",13.39,103.8604
+Iceland 8,734,Nature,Family,3,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,64.9983,-18.0659
+Bali,2522,Beach,Solo,4,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",-8.2552,115.1732
+Copenhagen North,3171,City,Couple,11,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,55.7076,12.5234
+Galapagos,1568,Nature,Family,6,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",40.7005,-3.3452
+Dubai Coast 8,3590,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,25.2751,55.3138
+Rome,2872,City,Couple,6,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",41.8764,12.4696
+Patagonia,2494,Mountains,Couple,6,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",31.4924,-110.7816
+Uganda 2,1050,Nature,Solo,7,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",1.4993,32.1751
+Patagonia East,2104,Mountains,Couple,5,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,31.5596,-110.764
+Rome,1933,City,Friends,2,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.8831,12.4983
+Himachal Hills,2959,Mountains,Friends,8,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",0.0,0.0
+Zanzibar,4024,Beach,Solo,5,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",-6.0666,39.3462
+Banff 6,1560,Mountains,Family,5,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,51.1576,-115.5523
+Amazon Rainforest,1165,Nature,Couple,5,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,-5.4954,-74.3417
+Andes,1792,Mountains,Couple,4,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,5.6358,-75.9173
+Seychelles,3864,Beach,Friends,7,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-4.6426,55.4248
+Myrtle Beach 6,3282,Beach,Family,4,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",33.682,-78.9292
+Tanzania,972,Nature,Solo,7,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-6.552,35.8038
+Bhutan,1784,Nature,Family,9,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",27.5874,90.4861
+Kenya Safari 9,681,Nature,Family,9,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-1.8003,36.802
+Mauritius,1573,Beach,Friends,8,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-20.2719,57.5791
+Ooty Hills,3431,Mountains,Family,8,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",11.4189,76.6858
+Seychelles Central,4105,Beach,Friends,5,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-4.6189,55.4977
+Prague Central,1660,City,Family,8,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",50.0598,14.4217
+Agra 5,1295,Historical,Friends,7,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",27.2221,78.0047
+Tanzania,1462,Nature,Solo,7,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-6.5231,35.8124
+Seoul 7,3303,City,Friends,3,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",37.5503,127.0248
+Bukhara North,1599,Historical,Friends,3,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",39.8086,64.4303
+Hawaii,1411,Beach,Friends,6,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",19.6405,-155.469
+Munnar 7,2312,Nature,Family,12,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",10.0513,77.0473
+Langkawi East,3123,Beach,Friends,6,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,6.4182,99.7767
+Cancun,1634,Beach,Friends,7,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",21.1582,-86.7951
+New Zealand,1117,Nature,Couple,6,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-41.4864,172.7969
+Luxor,2822,Historical,Family,5,A destination full of ancient sites and local history. Comfortable for family travel.,25.7183,32.6482
+Delhi Heritage,2958,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,28.6967,77.2047
+Luxor East,2599,Historical,Couple,3,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",25.7333,32.6827
+Varanasi 3,1276,Historical,Friends,8,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",25.3524,83.0362
+Zurich North,3224,City,Friends,11,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",47.3903,8.5171
+Machu Picchu East,1665,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,-13.1152,-72.5761
+Nepal Himalayas,2426,Mountains,Family,6,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",27.9596,86.8672
+Iceland,1418,Nature,Family,4,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",64.9822,-18.1311
+Budapest 2,1777,City,Couple,4,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",47.4463,19.1814
+Istanbul Old Town,1287,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,50.0611,19.9279
+Milan,2077,City,Solo,11,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",45.4658,9.2099
+Sri Lanka Rainforest,1735,Nature,Solo,12,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,6.4159,80.4868
+Ephesus East,2672,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,37.9344,27.3341
+Vienna,3403,City,Family,9,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,48.2553,16.3705
+Canada Wilderness,2404,Nature,Friends,9,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",51.1762,-115.5235
+Barcelona,1798,City,Friends,9,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",41.4015,2.2208
+Varanasi,2597,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,25.377,83.0153
+Canada Wilderness North,2616,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",51.1755,-115.5766
+Sri Lanka Rainforest,3145,Nature,Friends,10,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",6.4314,80.5025
+Myrtle Beach 9,3508,Beach,Couple,8,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",33.7016,-78.9378
+Angkor Wat,2041,Historical,Family,7,A destination full of ancient sites and local history. Comfortable for family travel.,13.4387,103.8936
+Goa,3584,Beach,Couple,4,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,15.2565,74.0965
+Istanbul Old Town,1011,Historical,Family,8,A destination full of ancient sites and local history. Comfortable for family travel.,50.09,19.9187
+Dubai Coast,5375,Beach,Solo,5,A scenic beach getaway with water sports and sunsets. Good for independent travel.,25.2556,55.263
+Gulmarg Central,1120,Mountains,Friends,2,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,34.064,74.3459
+Varanasi,810,Historical,Couple,4,A destination full of ancient sites and local history. Great for romantic trips.,25.3447,83.0062
+Cairo,1221,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",30.0829,31.2224
+Toronto 4,3283,City,Friends,11,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",43.6956,-79.4196
+Hampi 1,2356,Historical,Family,4,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",15.3644,76.4164
+San Francisco,3362,City,Couple,5,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",37.7492,-122.3787
+Zanzibar 8,2282,Beach,Solo,3,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",-6.1275,39.2752
+Banff,1880,Mountains,Couple,6,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,51.168,-115.6122
+Kenya Safari,970,Nature,Friends,11,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-1.8489,36.7364
+Tokyo Central,2059,City,Couple,11,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",35.6986,139.7914
+Teotihuacan Central,1715,Historical,Friends,6,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",19.7043,-98.8382
+Iceland,1820,Nature,Friends,12,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",64.9649,-18.0708
+Galapagos North,1603,Nature,Solo,12,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,40.6833,-3.3634
+Istanbul Old Town West,2997,Historical,Couple,5,A destination full of ancient sites and local history. Great for romantic trips.,50.0312,19.9583
+Varanasi South,1028,Historical,Family,8,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",25.3164,83.0506
+Teotihuacan,2853,Historical,Friends,2,A destination full of ancient sites and local history. Fun for group travel and activities.,19.7058,-98.8932
+Manali Central,2807,Mountains,Friends,2,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",32.2491,77.2179
+Hawaii,5083,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,19.601,-155.4648
+Dubai Coast,4970,Beach,Friends,4,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",25.2321,55.349
+Costa Rica,881,Nature,Friends,6,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,10.2778,-84.0391
+Langkawi West,5168,Beach,Family,7,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,6.3209,99.8347
+Angkor Wat,2171,Historical,Couple,3,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",13.4209,103.8757
+Andes,2779,Mountains,Family,6,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",5.6966,-75.8973
+Sikkim Nature,2329,Nature,Couple,11,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,27.3305,88.5328
+Pantanal,1818,Nature,Friends,6,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",-17.6933,-57.4837
+Istanbul West,3688,City,Friends,8,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",41.0431,29.0255
+Hawaii North,1822,Beach,Family,10,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,19.605,-155.404
+Miami Beach 6,1612,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,25.837,-80.1157
+Cairo 8,2785,Historical,Family,5,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",30.0065,31.2849
+New Zealand South,3085,Nature,Couple,7,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-41.5397,172.8243
+Berlin,3642,City,Couple,6,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",52.5561,13.4228
+Scotland Highlands South,2464,Mountains,Family,4,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",57.3447,-4.2725
+Santorini Central,1646,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,36.4085,25.4365
+Bora Bora East,3080,Beach,Friends,10,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-16.5502,-151.7092
+Norway Fjords Central,2309,Nature,Solo,8,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,61.0343,5.83
+Alps Village,1515,Mountains,Family,8,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,33.9004,-83.4331
+Madagascar,1709,Nature,Family,3,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-18.9417,46.4444
+Zurich,1972,City,Friends,5,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,47.3581,8.5803
+Tulum North,2120,Beach,Family,4,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,20.3851,-87.6933
+Madagascar,869,Nature,Couple,7,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-18.9096,46.4851
+Zanzibar South,5348,Beach,Family,7,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-6.0556,39.282
+Manali 7,1008,Mountains,Friends,4,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,32.2365,77.1669
+Los Angeles Central,857,City,Friends,6,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",34.0821,-118.2123
+Queenstown North,3315,Mountains,Friends,7,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",-45.006,168.6443
+Munnar,2998,Nature,Family,6,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,10.0939,77.0728
+Kyoto,785,Historical,Couple,2,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",35.0594,135.7766
+Zanzibar East,4183,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-6.0722,39.3327
+Miami Beach,5008,Beach,Solo,9,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,25.7861,-80.178
+Hampi,2085,Historical,Couple,2,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",15.3377,76.4694
+Istanbul Old Town,1100,Historical,Couple,8,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.0274,19.9617
+Costa Rica,1866,Nature,Solo,6,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,10.3104,-84.0757
+Nice Coast,2908,Beach,Couple,8,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-30.836,30.4273
+Zanzibar,2429,Beach,Family,4,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-6.0621,39.2897
+Nice Coast,1129,Beach,Family,5,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,-30.7847,30.3483
+Samarkand 6,860,Historical,Solo,5,"Ideal for museums, architecture and timeless charm. Good for independent travel.",39.6118,66.9884
+Berlin Central,3319,City,Couple,2,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,52.4774,13.3818
+Tokyo North,2445,City,Friends,8,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",35.6891,139.7195
+Istanbul,1069,City,Couple,4,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",40.9908,28.9269
+Coorg,2358,Nature,Family,11,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,12.3636,75.6206
+Edinburgh,2561,City,Couple,9,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",55.9932,-3.1442
+Luxor,1880,Historical,Solo,5,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",25.6874,32.6555
+Cairo,949,Historical,Solo,2,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",30.0137,31.1937
+Iceland,1000,Nature,Family,9,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",65.0309,-18.1463
+Uganda,924,Nature,Family,12,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,1.4844,32.1709
+Jerusalem,2034,Historical,Solo,8,A destination full of ancient sites and local history. Good for independent travel.,31.7311,35.1909
+Sri Lanka Rainforest,2797,Nature,Friends,12,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,6.4265,80.4905
+Swiss Alps,1819,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",46.6353,8.6951
+Nice Coast 2,1570,Beach,Friends,5,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-30.8353,30.4035
+Luxor,1996,Historical,Friends,3,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",25.7236,32.6521
+New Zealand,1137,Nature,Solo,5,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-41.5022,172.8119
+Luxor 4,2410,Historical,Friends,5,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",25.6828,32.6528
+Andes,1860,Mountains,Solo,9,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",5.6997,-75.849
+Jaipur,631,Historical,Solo,3,A destination full of ancient sites and local history. Good for independent travel.,26.9534,75.8198
+Kashmir Valley,731,Mountains,Solo,9,A mountain retreat with fresh air and adventure activities. Good for independent travel.,25.317,55.312
+Sri Lanka Rainforest,795,Nature,Family,9,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",6.441,80.5482
+Edinburgh Central,3158,City,Family,8,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",55.9373,-3.201
+Amsterdam,2130,City,Solo,4,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",52.4077,4.9141
+Kyoto,2384,Historical,Couple,6,A destination full of ancient sites and local history. Great for romantic trips.,34.9856,135.7884
+Kashmir Valley,2064,Mountains,Couple,4,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",25.2596,55.3456
+Kenya Safari,1938,Nature,Family,5,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",-1.8339,36.7773
+Santorini 8,1617,Beach,Couple,5,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,36.4045,25.4972
+Delhi Heritage West,1894,Historical,Family,3,A destination full of ancient sites and local history. Comfortable for family travel.,28.6407,77.2815
+Mount Fuji East,2141,Mountains,Solo,3,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",35.3725,138.7772
+Bangkok North,1114,City,Family,12,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",13.7933,100.5107
+Munnar 6,2342,Nature,Solo,12,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",10.0887,77.062
+Amazon Rainforest 2,2345,Nature,Solo,4,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,-5.495,-74.36
+Bali 9,4586,Beach,Couple,10,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-8.2116,115.1682
+Scotland Highlands,2286,Mountains,Family,8,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",57.286,-4.2128
+Manali,1863,Mountains,Friends,6,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",32.202,77.1964
+Amazon Rainforest,1770,Nature,Family,9,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-5.4931,-74.2941
+Varanasi,2756,Historical,Couple,2,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",25.3081,82.9898
+Patagonia,1577,Mountains,Couple,7,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",31.5046,-110.791
+Phuket 3,1828,Beach,Family,3,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",7.9743,98.3078
+Santorini,2356,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,36.4068,25.4211
+Gold Coast,4677,Beach,Family,6,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-28.028,153.4409
+Mauritius 9,4782,Beach,Friends,7,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-20.3109,57.5409
+Seychelles 6,3048,Beach,Couple,3,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-4.7053,55.4772
+Kerala 8,843,Nature,Family,5,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",10.3847,76.5536
+Cairo,2447,Historical,Couple,4,A destination full of ancient sites and local history. Great for romantic trips.,30.0075,31.2707
+Madagascar,2081,Nature,Couple,4,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",-18.9744,46.4564
+Dublin North,1398,City,Family,4,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,53.3896,-6.2658
+Langkawi,1043,Beach,Friends,4,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,6.3523,99.816
+Slovenia,955,Nature,Friends,7,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",46.0946,14.8548
+Miami Beach,1514,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,25.8212,-80.1099
+Galapagos 1,1088,Nature,Couple,7,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",40.7324,-3.3229
+Nice Coast,2534,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-30.8136,30.4211
+Coorg,2099,Nature,Solo,10,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",12.3532,75.6295
+Bangkok,2212,City,Solo,5,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",13.7094,100.4834
+Kodaikanal,3332,Mountains,Family,4,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",10.2185,77.5281
+Madrid,951,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",40.3727,-3.6901
+Patagonia,2924,Mountains,Friends,9,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,31.5362,-110.7575
+Banff East,1819,Mountains,Family,3,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",51.153,-115.5578
+Prague Old Town 6,1365,Historical,Family,5,A destination full of ancient sites and local history. Comfortable for family travel.,50.0626,14.4489
+Chicago 3,1123,City,Friends,8,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",41.8699,-87.6641
+Manali 8,2043,Mountains,Solo,6,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",32.2651,77.1572
+Machu Picchu 6,2039,Historical,Friends,5,A destination full of ancient sites and local history. Fun for group travel and activities.,-13.1333,-72.5623
+Banff,3449,Mountains,Solo,8,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",51.1271,-115.5673
+Tulum,1285,Beach,Friends,5,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",20.474,-87.6261
+Delhi Heritage,1228,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,28.6524,77.284
+Milan,2968,City,Couple,7,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",45.506,9.1494
+Paris,2844,City,Couple,10,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",48.9063,2.2927
+Alps Village,3206,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",33.983,-83.3725
+Berlin,3721,City,Couple,9,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,52.5004,13.4287
+Toronto 6,2028,City,Family,4,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",43.6354,-79.4339
+Singapore 6,1769,City,Couple,9,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,1.3381,103.8109
+Alps Village North,3206,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",33.9405,-83.3614
+Samarkand,2277,Historical,Friends,8,A destination full of ancient sites and local history. Fun for group travel and activities.,39.6248,67.0129
+Berlin 3,3585,City,Friends,10,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,52.5568,13.3526
+Norway Fjords 2,2272,Nature,Couple,11,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",61.0441,5.7628
+Himachal Hills,2021,Mountains,Couple,5,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",0.0,0.0
+Rocky Mountains,1212,Mountains,Family,6,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",43.3374,-110.8934
+Nice Coast,2402,Beach,Couple,8,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-30.8475,30.3965
+Hong Kong 7,3467,City,Family,5,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,22.3224,114.1985
+Lisbon West,3429,City,Family,6,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",38.7359,-9.1188
+Cairo West,1247,Historical,Solo,5,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",30.0307,31.2151
+Austria Alps,1980,Mountains,Couple,7,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,47.2444,13.5157
+Munnar,1807,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",10.1321,77.054
+Maui,1414,Beach,Solo,7,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,20.7658,-156.3262
+Queenstown West,1477,Mountains,Family,4,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,-45.0605,168.6285
+Sikkim,1068,Mountains,Solo,8,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",27.5591,88.4487
+Madagascar,707,Nature,Solo,7,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,-18.9609,46.449
+Edinburgh East,2565,City,Solo,4,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",55.9312,-3.2011
+Amsterdam 6,3135,City,Solo,10,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",52.3231,4.8624
+Amsterdam,3930,City,Friends,10,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",52.423,4.8678
+Ephesus 4,2884,Historical,Family,4,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",37.9527,27.3838
+Samarkand South,785,Historical,Solo,2,"Ideal for museums, architecture and timeless charm. Good for independent travel.",39.6672,66.9754
+Petra East,1943,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",30.322,35.4435
+Queenstown Central,2777,Mountains,Family,9,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",-44.9952,168.6359
+Kashmir Valley,2406,Mountains,Solo,6,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",25.2341,55.287
+Galapagos 3,710,Nature,Couple,12,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,40.7142,-3.314
+Pantanal,1492,Nature,Couple,3,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-17.6687,-57.4592
+Varanasi 7,1220,Historical,Friends,5,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",25.3367,82.9913
+Athens Central,2724,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",33.9574,-83.3356
+Varanasi,2482,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",25.3446,83.0097
+Austria Alps,1487,Mountains,Friends,5,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",47.2889,13.5288
+Patagonia 6,2702,Mountains,Couple,7,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",31.4943,-110.784
+Patagonia,3048,Mountains,Solo,8,A mountain retreat with fresh air and adventure activities. Good for independent travel.,31.537,-110.7808
+Prague,2218,City,Solo,9,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",50.129,14.4263
+Canada Wilderness,1062,Nature,Family,4,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",51.1327,-115.6166
+Sri Lanka Rainforest West,715,Nature,Couple,4,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",6.4025,80.4835
+Maldives,4333,Beach,Couple,10,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",3.7165,73.2371
+Banff,3371,Mountains,Solo,5,A mountain retreat with fresh air and adventure activities. Good for independent travel.,51.1821,-115.5237
+Bali,5058,Beach,Friends,5,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-8.2635,115.1485
+Slovenia 9,1872,Nature,Solo,7,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",46.107,14.852
+Hawaii,3235,Beach,Friends,6,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,19.5457,-155.428
+Istanbul Old Town 5,657,Historical,Couple,7,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.1,19.9366
+Santorini,4503,Beach,Friends,8,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,36.4178,25.4538
+Langkawi,3032,Beach,Family,3,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",6.342,99.8256
+Kashmir Valley,3085,Mountains,Family,2,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",25.2235,55.2755
+Berlin,1454,City,Family,8,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,52.5634,13.4113
+Scotland Highlands West,1597,Mountains,Couple,4,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",57.3395,-4.2198
+Madagascar,2749,Nature,Friends,10,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,-18.9271,46.3963
+New Zealand,2663,Nature,Friends,8,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,-41.5313,172.8627
+Kenya Safari,1173,Nature,Couple,8,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,-1.8178,36.7805
+Nice Coast,1744,Beach,Friends,10,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-30.8168,30.3582
+Hampi East,2888,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,15.3477,76.4636
+Chicago,3168,City,Couple,3,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,41.8945,-87.5846
+Toronto North,1082,City,Solo,9,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",43.6504,-79.3467
+Miami Beach,4133,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,25.8068,-80.1734
+Amazon Rainforest 7,985,Nature,Family,5,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-5.4564,-74.3574
+Maldives 7,3444,Beach,Solo,10,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",3.6723,73.2267
+Bora Bora,3835,Beach,Friends,5,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-16.5509,-151.7385
+Jaipur 2,1585,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",26.8753,75.8352
+Jaipur North,1602,Historical,Solo,7,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",26.8844,75.8602
+Kenya Safari 4,1073,Nature,Solo,11,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-1.8156,36.7903
+Slovenia,1470,Nature,Family,7,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",46.1629,14.8116
+Mount Fuji West,2980,Mountains,Solo,4,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",35.3882,138.7353
+Nepal Himalayas South,2405,Mountains,Family,8,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",28.0278,86.8722
+Sikkim Nature,1423,Nature,Couple,7,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,27.366,88.5667
+Luxor,2190,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",25.7454,32.6709
+Zurich,2319,City,Friends,3,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",47.3465,8.5873
+Jaipur,898,Historical,Solo,3,A destination full of ancient sites and local history. Good for independent travel.,26.955,75.8338
+Sri Lanka Coast South,1125,Beach,Family,6,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,5.9433,80.4197
+Kenya Safari East,1480,Nature,Friends,11,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",-1.8205,36.7602
+Madagascar Central,1571,Nature,Family,8,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-18.9218,46.4506
+Varanasi 1,2118,Historical,Couple,4,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",25.3674,83.0102
+Maldives,5532,Beach,Family,9,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",3.711,73.2606
+Myrtle Beach East,5090,Beach,Couple,8,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",33.6996,-78.922
+Mauritius,2146,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-20.2977,57.5907
+Dublin,3537,City,Solo,2,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,53.3448,-6.2778
+Phuket,1074,Beach,Couple,6,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,7.9472,98.3922
+Slovenia 1,3200,Nature,Friends,10,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,46.0867,14.7752
+Rome,2768,Historical,Solo,7,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",41.9267,12.4506
+Bhutan,938,Nature,Couple,4,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",27.5084,90.5283
+Coorg,1951,Nature,Family,7,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",12.3873,75.6918
+Delhi Heritage,1525,Historical,Couple,4,A destination full of ancient sites and local history. Great for romantic trips.,28.6105,77.1935
+Prague Old Town,829,Historical,Friends,7,A destination full of ancient sites and local history. Fun for group travel and activities.,50.0922,14.3795
+Varanasi 4,2763,Historical,Solo,2,A destination full of ancient sites and local history. Good for independent travel.,25.3785,83.0266
+Banff,1848,Mountains,Solo,2,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",51.1876,-115.614
+Amazon Rainforest 4,815,Nature,Friends,7,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",-5.4932,-74.3431
+Tanzania,1073,Nature,Friends,4,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-6.5144,35.7735
+Jerusalem,1995,Historical,Solo,6,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",31.8072,35.2026
+Alps Village Central,1634,Mountains,Friends,7,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",33.9551,-83.3605
+Pantanal,3033,Nature,Solo,7,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-17.6442,-57.4967
+Myrtle Beach,4191,Beach,Couple,8,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,33.7344,-78.8974
+Alps Village,1804,Mountains,Family,3,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,33.9571,-83.391
+Angkor Wat 6,1023,Historical,Friends,2,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",13.4185,103.8677
+Slovenia East,2077,Nature,Family,3,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",46.1234,14.7694
+Sri Lanka Rainforest,2059,Nature,Couple,5,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",6.451,80.5063
+Petra,1284,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,30.3238,35.5084
+Bangkok West,1810,City,Family,12,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",13.7144,100.4478
+Dubai Coast,4241,Beach,Solo,8,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",25.2757,55.3026
+Andes Central,1930,Mountains,Couple,7,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,5.6752,-75.9249
+Myrtle Beach,3387,Beach,Family,10,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",33.6502,-78.9175
+Nepal Himalayas,1166,Mountains,Family,5,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",27.9503,86.9636
+Costa Rica East,1358,Nature,Friends,10,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,10.244,-84.1181
+Petra South,1591,Historical,Family,4,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",30.3441,35.4439
+Jaipur Central,2984,Historical,Friends,5,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",26.9226,75.7919
+Los Angeles,3673,City,Family,10,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",34.055,-118.2226
+Himachal Hills,3006,Mountains,Solo,8,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",0.0,0.0
+Barcelona Central,2891,City,Couple,10,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",41.3412,2.1935
+Hampi,2012,Historical,Couple,2,A destination full of ancient sites and local history. Great for romantic trips.,15.2875,76.4477
+New York,2226,City,Couple,6,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,40.6696,-74.0426
+Ephesus,999,Historical,Friends,5,A destination full of ancient sites and local history. Fun for group travel and activities.,37.9872,27.3851
+Los Angeles,892,City,Solo,7,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,34.0858,-118.2336
+Zanzibar West,3711,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-6.1091,39.3659
+Santorini Central,4240,Beach,Friends,3,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,36.4316,25.4246
+Prague Old Town 2,1479,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",50.085,14.4306
+Norway Fjords,1835,Nature,Family,6,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,60.9933,5.8439
+Samarkand,2191,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,39.6925,66.9877
+Jaipur,1818,Historical,Couple,6,A destination full of ancient sites and local history. Great for romantic trips.,26.9211,75.8214
+Seoul 3,1279,City,Family,4,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",37.5738,127.0249
+Jaipur West,2954,Historical,Couple,5,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",26.8757,75.7938
+Norway Fjords,2505,Nature,Couple,7,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",61.0746,5.8019
+Iceland South,539,Nature,Family,10,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,64.9386,-18.0811
+Sikkim Nature,2514,Nature,Friends,9,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",27.312,88.5191
+Costa Rica 4,1696,Nature,Couple,3,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",10.3141,-84.1064
+Gold Coast,5503,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-28.03,153.418
+Kodaikanal,2507,Mountains,Solo,5,A mountain retreat with fresh air and adventure activities. Good for independent travel.,10.2779,77.515
+Berlin,2227,City,Family,3,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",52.4913,13.347
+Madagascar,1179,Nature,Friends,12,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-18.8977,46.4708
+Madagascar,2944,Nature,Family,11,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",-18.8972,46.4371
+Canada Wilderness,1055,Nature,Solo,9,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,51.1799,-115.5454
+Bora Bora,3638,Beach,Couple,6,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-16.492,-151.709
+Andes 7,2551,Mountains,Friends,3,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",5.6545,-75.9213
+Scotland Highlands,2699,Mountains,Friends,7,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",57.3748,-4.2259
+Ephesus,2789,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,37.9169,27.3765
+Kashmir Valley,2083,Mountains,Family,4,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",25.2908,55.3273
+Tokyo,3364,City,Solo,9,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",35.672,139.7806
+Rome,1428,Historical,Friends,7,A destination full of ancient sites and local history. Fun for group travel and activities.,41.921,12.4659
+Hong Kong,1825,City,Family,3,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",22.3052,114.1926
+Dolomites,3384,Mountains,Friends,3,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,46.2453,12.0838
+London,2927,City,Couple,12,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,51.4983,-0.1434
+Manali North,1241,Mountains,Friends,9,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",32.284,77.1919
+New York,2305,City,Family,6,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,40.7583,-74.0184
+Phuket,5999,Beach,Solo,5,A scenic beach getaway with water sports and sunsets. Good for independent travel.,7.9775,98.3956
+Miami Beach,2779,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,25.8427,-80.1174
+Ephesus,1888,Historical,Friends,8,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",37.9834,27.3781
+Seoul 4,3990,City,Family,2,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,37.6091,126.9727
+Kenya Safari South,1710,Nature,Friends,3,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-1.8068,36.7462
+Langkawi,5327,Beach,Solo,3,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",6.4028,99.8091
+Bhutan,2737,Nature,Family,5,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,27.5003,90.5507
+Paris 7,1683,City,Family,2,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",48.8341,2.2903
+Bhutan 9,2147,Nature,Friends,4,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",27.5749,90.5567
+Aspen,1023,Mountains,Family,5,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,39.2381,-106.81
+New Zealand,2291,Nature,Family,6,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",-41.5332,172.8488
+Berlin,2066,City,Solo,12,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,52.5242,13.392
+Maldives,5066,Beach,Couple,8,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,3.7097,73.2644
+Gulmarg,1183,Mountains,Family,2,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",34.0762,74.4065
+Barcelona,2832,City,Solo,9,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",41.4321,2.1777
+Norway Fjords,1144,Nature,Family,7,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,61.0747,5.7812
+Costa Rica,550,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",10.2467,-84.0475
+Santorini,5529,Beach,Solo,9,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",36.4085,25.4613
+Mount Fuji,3041,Mountains,Solo,7,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",35.3142,138.7284
+Hawaii,4284,Beach,Solo,4,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",19.6264,-155.4255
+Toronto 5,832,City,Friends,7,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",43.6678,-79.4224
+Sri Lanka Rainforest 4,2008,Nature,Friends,12,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",6.3709,80.5378
+Maldives,1195,Beach,Friends,6,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",3.7677,73.1921
+San Francisco 4,3823,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",37.7553,-122.3876
+Bukhara,1183,Historical,Solo,7,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",39.7564,64.4331
+Bhutan 2,2377,Nature,Family,4,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",27.5874,90.4793
+Cairo,2381,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,30.0899,31.2484
+Nepal Himalayas,2002,Mountains,Family,9,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",28.0151,86.8942
+Nice Coast South,2273,Beach,Solo,4,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",-30.831,30.386
+Kyoto,1450,Historical,Family,5,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",35.021,135.8169
+Dubai,3686,City,Family,11,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",25.089,55.2358
+Madrid,2257,City,Couple,8,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",40.39,-3.7335
+Maldives,4704,Beach,Friends,6,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,3.7399,73.263
+Paris South,3998,City,Solo,5,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",48.85,2.3312
+Milan North,1107,City,Family,2,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",45.4872,9.1538
+Copenhagen,1301,City,Family,2,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,55.6911,12.5952
+Prague Old Town,720,Historical,Friends,5,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",50.0941,14.4108
+Cancun,4653,Beach,Family,5,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",21.1076,-86.8907
+Angkor Wat,849,Historical,Friends,2,A destination full of ancient sites and local history. Fun for group travel and activities.,13.3787,103.8439
+Hawaii West,5453,Beach,Couple,3,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,19.6004,-155.4263
+Ephesus,2190,Historical,Family,4,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",37.8905,27.3708
+Maldives 6,1479,Beach,Family,10,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,3.7377,73.1954
+Goa,2975,Beach,Couple,7,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,15.3294,74.1061
+Ephesus,1321,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",37.9851,27.2957
+Madrid South,3125,City,Family,11,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,40.4595,-3.7074
+Himachal Hills 4,855,Mountains,Friends,3,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",0.0,0.0
+Sydney,802,City,Friends,7,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",-33.8639,151.1875
+Sri Lanka Coast,1179,Beach,Solo,5,A scenic beach getaway with water sports and sunsets. Good for independent travel.,5.8996,80.4489
+Aspen,3412,Mountains,Family,8,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,39.1487,-106.8303
+Gulmarg 3,2489,Mountains,Couple,9,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",34.0318,74.4355
+Madagascar,2912,Nature,Couple,5,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-18.9227,46.4139
+Maldives 6,5648,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,3.6863,73.2557
+Kerala,1076,Nature,Friends,8,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",10.3449,76.5382
+Phuket,4658,Beach,Family,3,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,7.8961,98.3503
+Bangkok North,1242,City,Family,2,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,13.731,100.4479
+Machu Picchu East,2619,Historical,Friends,5,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",-13.1246,-72.5109
+Delhi Heritage,1266,Historical,Couple,5,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",28.6078,77.2624
+Mount Fuji,1003,Mountains,Solo,7,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",35.4062,138.7068
+Toronto,2184,City,Solo,11,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",43.6455,-79.3395
+Tulum,2286,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,20.4782,-87.6345
+Angkor Wat,1753,Historical,Family,4,A destination full of ancient sites and local history. Comfortable for family travel.,13.4516,103.871
+Munnar East,1129,Nature,Friends,3,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",10.111,77.1069
+Austria Alps,1517,Mountains,Friends,3,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",47.22,13.5504
+Aspen West,1173,Mountains,Friends,6,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",39.1473,-106.8475
+Aspen,1457,Mountains,Friends,7,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,39.1558,-106.8525
+Barcelona 5,2704,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",41.4036,2.19
+Goa 4,3816,Beach,Solo,9,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,15.3437,74.0512
+Samarkand West,2793,Historical,Friends,7,A destination full of ancient sites and local history. Fun for group travel and activities.,39.6935,67.0091
+Amsterdam,2856,City,Solo,11,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",52.4158,4.9136
+Santorini,2578,Beach,Couple,5,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,36.3801,25.4724
+Agra North,1656,Historical,Couple,4,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",27.1577,78.0467
+Angkor Wat 1,1731,Historical,Family,6,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",13.3661,103.8887
+Bhutan,2197,Nature,Solo,5,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,27.5946,90.5512
+Los Angeles West,2993,City,Family,7,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,34.0795,-118.2228
+Delhi Heritage,753,Historical,Friends,3,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",28.6162,77.2632
+Pantanal South,2121,Nature,Solo,8,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-17.6997,-57.457
+Swiss Alps,1941,Mountains,Family,6,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",46.7059,8.7351
+Dubai Coast,3628,Beach,Friends,7,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",25.3071,55.2679
+Miami Beach,5231,Beach,Friends,8,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,25.823,-80.1136
+Ooty Hills,1255,Mountains,Friends,2,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",11.3843,76.6607
+Bali,1414,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-8.2073,115.1663
+Pantanal 8,625,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-17.6546,-57.4475
+Langkawi,3820,Beach,Family,5,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,6.3792,99.7503
+Athens,2943,Historical,Couple,8,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",33.9948,-83.4149
+Cancun,5204,Beach,Friends,3,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,21.1442,-86.8389
+Tulum,2833,Beach,Solo,7,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",20.4236,-87.6574
+Ephesus 5,1632,Historical,Friends,3,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",37.9604,27.3446
+Delhi Heritage 9,630,Historical,Solo,6,"Ideal for museums, architecture and timeless charm. Good for independent travel.",28.6238,77.2129
+Patagonia,2673,Mountains,Solo,3,A mountain retreat with fresh air and adventure activities. Good for independent travel.,31.523,-110.7601
+Patagonia,1314,Mountains,Couple,5,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",31.5016,-110.7924
+Maldives West,3421,Beach,Friends,7,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,3.7318,73.1959
+Milan,2205,City,Couple,5,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,45.4834,9.1831
+Himachal Hills,1903,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",0.0,0.0
+Norway Fjords,3180,Nature,Family,4,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,61.0411,5.7971
+Andes Central,2222,Mountains,Family,6,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",5.6301,-75.8678
+Athens Central,2534,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",33.927,-83.4134
+Andes South,1317,Mountains,Solo,4,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",5.6444,-75.8684
+Petra,1338,Historical,Family,8,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",30.354,35.4962
+Sri Lanka Coast,1038,Beach,Solo,10,A scenic beach getaway with water sports and sunsets. Good for independent travel.,5.956,80.4912
+Langkawi West,2060,Beach,Solo,9,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",6.3843,99.8382
+Rome,2786,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",41.9154,12.4642
+Maldives,3038,Beach,Solo,6,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,3.7571,73.1788
+Samarkand,1284,Historical,Family,2,A destination full of ancient sites and local history. Comfortable for family travel.,39.6886,67.007
+Slovenia,2276,Nature,Family,5,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",46.0739,14.7659
+Myrtle Beach,2871,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,33.7347,-78.891
+Norway Fjords 5,2001,Nature,Solo,3,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,61.0727,5.7762
+Budapest,3511,City,Solo,3,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",47.4658,19.1372
+Prague Old Town,2841,Historical,Solo,4,"Ideal for museums, architecture and timeless charm. Good for independent travel.",50.1351,14.4156
+Prague 5,3510,City,Friends,3,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,50.12,14.4199
+Miami Beach,5190,Beach,Solo,4,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",25.8331,-80.1146
+Tulum,3154,Beach,Couple,6,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,20.384,-87.6265
+Toronto,1650,City,Friends,9,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",43.6335,-79.4156
+Zurich,3151,City,Solo,12,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,47.3761,8.5562
+Chicago,1848,City,Solo,12,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",41.8906,-87.6107
+Athens,1315,Historical,Solo,8,"Ideal for museums, architecture and timeless charm. Good for independent travel.",33.9907,-83.4202
+Andes,1089,Mountains,Solo,2,A mountain retreat with fresh air and adventure activities. Good for independent travel.,5.6743,-75.8402
+Alps Village,1080,Mountains,Family,7,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,33.9217,-83.4225
+Hampi,2179,Historical,Family,7,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",15.3231,76.5062
+Bali 8,1849,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-8.2123,115.1657
+Machu Picchu North,2068,Historical,Friends,6,A destination full of ancient sites and local history. Fun for group travel and activities.,-13.1906,-72.5857
+Copenhagen,2605,City,Friends,2,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",55.6485,12.6165
+Galapagos Central,1885,Nature,Couple,11,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,40.712,-3.3764
+Langkawi,4152,Beach,Family,5,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,6.3661,99.7783
+Hawaii,5061,Beach,Friends,5,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,19.5906,-155.4136
+Mount Fuji Central,2776,Mountains,Solo,5,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",35.3566,138.7338
+Berlin North,3147,City,Friends,9,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",52.5627,13.4354
+Lisbon 1,1220,City,Solo,8,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,38.6638,-9.1399
+Dublin 9,3274,City,Solo,11,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",53.3096,-6.2731
+Varanasi,822,Historical,Family,8,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",25.3826,83.0516
+Slovenia,3191,Nature,Friends,8,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,46.107,14.7699
+Maldives,3909,Beach,Family,7,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,3.6822,73.258
+Tokyo,2816,City,Couple,4,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,35.7153,139.7196
+Seychelles,4218,Beach,Solo,6,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,-4.6571,55.4132
+Athens,2445,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,33.9465,-83.3439
+Sydney 8,3066,City,Solo,8,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",-33.8535,151.1587
+Norway Fjords 6,924,Nature,Couple,9,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",61.0442,5.7731
+Jaipur East,1720,Historical,Couple,5,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",26.92,75.7962
+Miami Beach,5487,Beach,Family,8,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,25.7832,-80.137
+Uganda,1043,Nature,Family,5,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,1.4865,32.1692
+San Francisco 7,3103,City,Family,9,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",37.8128,-122.4477
+Rome,703,Historical,Solo,5,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",41.9189,12.454
+Himachal Hills,3499,Mountains,Family,6,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",0.0,0.0
+Iceland,2353,Nature,Family,4,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,65.0113,-18.0705
+Pantanal North,2592,Nature,Couple,7,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",-17.6874,-57.4078
+Kodaikanal,753,Mountains,Solo,6,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",10.2407,77.497
+Queenstown,1492,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",-45.0399,168.6124
+Hawaii 5,4090,Beach,Solo,3,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",19.5664,-155.387
+Santorini,1046,Beach,Family,8,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,36.4142,25.4863
+Austria Alps,3261,Mountains,Solo,6,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",47.2249,13.5252
+Ooty Hills Central,1453,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",11.416,76.7389
+Pantanal,1931,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-17.6289,-57.4234
+Rocky Mountains North,2999,Mountains,Friends,2,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",43.3773,-110.905
+Slovenia West,663,Nature,Couple,8,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",46.1122,14.7685
+Uganda Central,2617,Nature,Solo,8,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",1.5239,32.2422
+Prague,2112,City,Couple,10,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,50.0734,14.4125
+Costa Rica,1363,Nature,Solo,6,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,10.2894,-84.0602
+Cairo,697,Historical,Couple,5,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",30.0476,31.2738
+Dubai,3085,City,Family,3,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",25.1239,55.2187
+Hampi,2373,Historical,Friends,4,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",15.3342,76.4509
+Hong Kong,3896,City,Solo,11,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,22.3073,114.1545
+Prague East,3284,City,Family,3,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",50.0451,14.4147
+Lisbon 7,2985,City,Couple,5,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",38.7447,-9.1677
+Dubai Coast,1091,Beach,Family,5,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,25.2318,55.3229
+Pantanal East,1748,Nature,Solo,6,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,-17.7074,-57.4987
+Amazon Rainforest,1253,Nature,Couple,6,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-5.4396,-74.2718
+Nice Coast,5496,Beach,Solo,10,A scenic beach getaway with water sports and sunsets. Good for independent travel.,-30.7847,30.369
+Barcelona,1608,City,Solo,11,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",41.3849,2.2133
+Goa East,1571,Beach,Family,6,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",15.2523,74.057
+Uganda East,2816,Nature,Couple,12,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",1.5067,32.2398
+Istanbul,1707,City,Couple,12,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",41.0464,28.9956
+Sikkim 8,2524,Mountains,Friends,7,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",27.6078,88.4477
+Tulum,3298,Beach,Solo,5,A scenic beach getaway with water sports and sunsets. Good for independent travel.,20.4711,-87.6784
+Chicago 7,876,City,Solo,10,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",41.9166,-87.5809
+Toronto,3026,City,Family,10,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",43.672,-79.3899
+Nice Coast,2096,Beach,Family,10,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-30.8782,30.3477
+Ooty Hills 3,3414,Mountains,Solo,5,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",11.4165,76.6613
+Machu Picchu,2919,Historical,Couple,6,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",-13.1189,-72.5133
+Langkawi,1514,Beach,Couple,7,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,6.3287,99.749
+Hawaii,4179,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,19.5955,-155.4527
+Manali,1778,Mountains,Family,4,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",32.2819,77.2082
+Sydney,2341,City,Family,5,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",-33.8798,151.2432
+Bukhara,2655,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",39.808,64.4112
+Canada Wilderness 6,1115,Nature,Couple,5,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,51.2061,-115.5438
+Kuala Lumpur North,2498,City,Couple,7,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",3.1299,101.6721
+Nice Coast,4366,Beach,Couple,3,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-30.8052,30.3481
+Norway Fjords,3078,Nature,Couple,11,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",61.0351,5.7965
+Himachal Hills,3154,Mountains,Friends,2,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,0.0,0.0
+Sikkim Nature 3,1198,Nature,Friends,6,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",27.3147,88.5195
+Coorg,1186,Nature,Family,8,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",12.4107,75.6531
+Petra Central,667,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",30.3294,35.4624
+Kerala 1,2449,Nature,Couple,12,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,10.356,76.5108
+Rome,3500,City,Friends,4,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.8484,12.5057
+Samarkand North,2117,Historical,Friends,8,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",39.698,66.9301
+Prague Old Town,2959,Historical,Family,2,A destination full of ancient sites and local history. Comfortable for family travel.,50.0997,14.3942
+Phuket,5901,Beach,Family,9,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,7.9424,98.3521
+Milan,2928,City,Solo,2,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",45.5046,9.1673
+Manali East,2445,Mountains,Couple,6,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",32.2632,77.1923
+Austria Alps 7,3487,Mountains,Family,8,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",47.2474,13.4899
+Machu Picchu,2890,Historical,Family,6,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",-13.1459,-72.5886
+Nepal Himalayas,3400,Mountains,Couple,3,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",27.9467,86.9155
+Hawaii,3772,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,19.5631,-155.3961
+Langkawi,1722,Beach,Friends,4,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,6.3864,99.7811
+Iceland 5,2141,Nature,Friends,12,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",64.9678,-18.1537
+Langkawi,1087,Beach,Friends,6,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,6.3778,99.7816
+Coorg,3019,Nature,Couple,5,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,12.3775,75.672
+Dubai East,1930,City,Solo,8,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,25.1081,55.2278
+Hawaii 5,1562,Beach,Solo,4,A scenic beach getaway with water sports and sunsets. Good for independent travel.,19.5663,-155.4111
+Scotland Highlands 7,1626,Mountains,Family,5,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",57.2995,-4.2003
+Himachal Hills 2,2773,Mountains,Friends,3,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,0.0,0.0
+Manali 7,2903,Mountains,Family,6,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,32.2483,77.1608
+Sri Lanka Coast,4774,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,5.9371,80.4258
+Jerusalem 9,1893,Historical,Couple,5,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",31.7735,35.1964
+Dolomites 2,1080,Mountains,Family,8,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",46.287,12.0368
+Varanasi,1495,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,25.3308,82.9916
+Bora Bora,3174,Beach,Couple,6,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-16.4969,-151.7867
+Gulmarg 1,1191,Mountains,Solo,3,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",34.0921,74.4266
+Ephesus,2616,Historical,Family,6,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",37.9582,27.3771
+Nepal Himalayas North,3062,Mountains,Couple,4,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,27.975,86.9561
+Iceland 2,2112,Nature,Family,5,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",64.9762,-18.076
+Swiss Alps,3461,Mountains,Solo,5,A mountain retreat with fresh air and adventure activities. Good for independent travel.,46.6717,8.7748
+Canada Wilderness South,2746,Nature,Couple,7,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,51.1483,-115.6115
+Scotland Highlands,2742,Mountains,Couple,8,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,57.3717,-4.2622
+Istanbul Old Town,1336,Historical,Friends,6,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",50.0647,19.9271
+Dolomites South,2260,Mountains,Friends,5,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",46.2587,12.042
+Miami Beach,2101,Beach,Friends,8,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,25.7856,-80.1227
+Iceland,905,Nature,Friends,5,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",64.9771,-18.0997
+Berlin 9,1864,City,Family,7,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",52.4722,13.3681
+Swiss Alps 4,1196,Mountains,Friends,7,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",46.6759,8.7356
+Norway Fjords Central,1954,Nature,Family,8,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",61.0102,5.8413
+Jaipur,2499,Historical,Family,7,A destination full of ancient sites and local history. Comfortable for family travel.,26.9363,75.7798
+Galapagos,792,Nature,Friends,4,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",40.7287,-3.3064
+Patagonia,3179,Mountains,Family,8,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",31.5055,-110.7403
+Coorg,2195,Nature,Friends,5,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,12.3934,75.7074
+Cancun,2725,Beach,Solo,5,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,21.1699,-86.873
+Angkor Wat,707,Historical,Solo,8,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",13.3752,103.8216
+Austria Alps,1045,Mountains,Couple,8,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",47.2965,13.5843
+Alps Village,1237,Mountains,Couple,4,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,33.9825,-83.3639
+Hampi,2846,Historical,Family,5,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",15.3613,76.471
+Andaman Islands East,2644,Nature,Friends,11,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,12.5624,92.8725
+Phuket,3522,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",7.9107,98.3802
+Paris,2208,City,Couple,6,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,48.8508,2.3
+Bukhara 5,637,Historical,Family,8,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",39.8205,64.4167
+Toronto Central,1572,City,Family,8,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",43.6321,-79.4329
+Myrtle Beach,2807,Beach,Friends,7,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,33.6941,-78.8724
+Canada Wilderness,3156,Nature,Family,11,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",51.1978,-115.5866
+Maui,1904,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,20.8436,-156.323
+Sikkim Nature 1,1813,Nature,Couple,3,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",27.3382,88.5741
+Goa,3205,Beach,Family,5,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,15.2555,74.0478
+Maldives West,2779,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",3.7303,73.2527
+Athens,928,Historical,Family,8,A destination full of ancient sites and local history. Comfortable for family travel.,33.9721,-83.3532
+Toronto,1543,City,Friends,5,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",43.6828,-79.3835
+Myrtle Beach,3024,Beach,Friends,3,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,33.7095,-78.9321
+Langkawi 1,3556,Beach,Friends,8,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,6.3567,99.8214
+Barcelona,3415,City,Friends,6,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.3374,2.2194
+Goa,4556,Beach,Couple,8,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,15.2774,74.1353
+Amsterdam 8,836,City,Couple,2,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",52.3421,4.8907
+Aspen,1345,Mountains,Couple,9,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",39.1578,-106.7814
+Gulmarg 6,1215,Mountains,Solo,9,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",34.0626,74.3466
+Alps Village,787,Mountains,Couple,8,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",33.9505,-83.4235
+Hampi 4,2823,Historical,Family,7,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",15.2944,76.4394
+Madagascar,2418,Nature,Family,7,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-18.9367,46.4884
+Amazon Rainforest Central,1711,Nature,Friends,7,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-5.4931,-74.2873
+Pantanal,576,Nature,Couple,12,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,-17.6749,-57.4365
+Kuala Lumpur,1577,City,Friends,10,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,3.1341,101.6951
+Kashmir Valley 2,3325,Mountains,Friends,7,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",25.2596,55.3094
+Tokyo South,1531,City,Couple,2,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",35.6701,139.797
+Tokyo,3494,City,Friends,9,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",35.7264,139.7685
+Tulum West,1107,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,20.4247,-87.6872
+Bangkok 5,2311,City,Friends,2,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",13.738,100.46
+Dublin,1119,City,Family,5,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,53.3386,-6.2728
+Zanzibar 4,2552,Beach,Friends,6,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-6.0624,39.2917
+Zanzibar,1864,Beach,Friends,8,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-6.1118,39.3347
+Zanzibar 9,5134,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-6.1213,39.3693
+Kashmir Valley 6,2222,Mountains,Family,8,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",25.2318,55.337
+Munnar East,2036,Nature,Couple,11,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",10.0493,77.0264
+Rome,1765,Historical,Solo,6,A destination full of ancient sites and local history. Good for independent travel.,41.898,12.4838
+Prague 5,1679,City,Couple,7,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,50.1269,14.4111
+Galapagos,886,Nature,Couple,3,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",40.719,-3.2981
+Scotland Highlands 2,1654,Mountains,Couple,6,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,57.3492,-4.2746
+Kenya Safari 8,1829,Nature,Solo,10,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-1.8147,36.7878
+Uganda,2860,Nature,Solo,9,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",1.5678,32.2526
+Luxor Central,1528,Historical,Solo,7,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",25.7516,32.6372
+Ooty Hills,2007,Mountains,Solo,4,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",11.4405,76.732
+Kuala Lumpur,2625,City,Friends,11,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",3.1426,101.6858
+Teotihuacan East,1206,Historical,Friends,3,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",19.6904,-98.9138
+Toronto West,1875,City,Friends,3,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,43.6654,-79.3746
+Maui 7,5581,Beach,Friends,6,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,20.8514,-156.2922
+Slovenia,1492,Nature,Couple,4,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,46.1339,14.8372
+New Zealand,2194,Nature,Solo,9,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-41.4946,172.8314
+Austria Alps 8,1948,Mountains,Solo,4,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",47.2651,13.5663
+Athens,1417,Historical,Couple,7,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",33.9298,-83.4098
+Seoul,1978,City,Couple,2,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",37.5541,127.0015
+Rome,1456,Historical,Family,7,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",41.9028,12.5075
+Canada Wilderness 7,3051,Nature,Friends,5,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,51.1339,-115.5241
+Iceland 4,1197,Nature,Family,3,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",65.019,-18.0977
+Berlin,1072,City,Solo,8,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",52.549,13.402
+Nepal Himalayas 8,2259,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",28.0246,86.8808
+Dubai,2850,City,Couple,9,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",25.1148,55.1896
+Uganda,2506,Nature,Family,9,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,1.5027,32.2349
+Scotland Highlands North,1667,Mountains,Family,6,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",57.2945,-4.2838
+Canada Wilderness,1121,Nature,Couple,8,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,51.1525,-115.5644
+Samarkand Central,2309,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,39.606,67.0217
+Tanzania 3,2720,Nature,Friends,5,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,-6.5468,35.7442
+Maui 3,5291,Beach,Family,5,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,20.8317,-156.3243
+Aspen,1454,Mountains,Solo,7,A mountain retreat with fresh air and adventure activities. Good for independent travel.,39.1572,-106.853
+Teotihuacan,1721,Historical,Friends,3,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",19.6537,-98.8545
+San Francisco 4,3280,City,Family,11,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",37.8271,-122.4542
+Maldives 9,1651,Beach,Family,10,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",3.7553,73.2335
+Himachal Hills,2712,Mountains,Friends,9,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",0.0,0.0
+Vienna,1905,City,Solo,8,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",48.1616,16.3924
+Gold Coast South,3661,Beach,Friends,10,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-27.9737,153.3812
+Pantanal 9,2114,Nature,Family,12,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-17.6601,-57.4444
+Sydney 4,2649,City,Solo,9,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,-33.8242,151.2358
+Athens,2714,Historical,Friends,8,A destination full of ancient sites and local history. Fun for group travel and activities.,33.9875,-83.403
+Teotihuacan 5,2489,Historical,Family,3,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",19.688,-98.8978
+Amazon Rainforest,3146,Nature,Friends,10,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-5.4707,-74.273
+Munnar,2110,Nature,Couple,9,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",10.0656,77.0292
+Delhi Heritage,2462,Historical,Couple,2,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",28.6258,77.2371
+Rome 2,3692,City,Solo,9,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,41.9187,12.5257
+Samarkand,2151,Historical,Couple,6,A destination full of ancient sites and local history. Great for romantic trips.,39.6923,67.0008
+Amazon Rainforest,1092,Nature,Couple,5,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",-5.4814,-74.3606
+Teotihuacan 1,1081,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,19.7117,-98.9182
+Berlin,2842,City,Friends,10,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",52.5061,13.4154
+Sikkim Nature,2179,Nature,Friends,10,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,27.3168,88.5818
+Austria Alps,900,Mountains,Couple,4,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",47.2784,13.5707
+Bali North,3712,Beach,Family,4,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,-8.188,115.2057
+Dubai Coast,4730,Beach,Couple,8,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",25.2298,55.3009
+Nepal Himalayas,2450,Mountains,Solo,3,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",28.0132,86.9013
+Kashmir Valley,2848,Mountains,Friends,5,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",25.238,55.2953
+New Zealand,2977,Nature,Friends,7,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,-41.5385,172.842
+Slovenia 8,1031,Nature,Family,12,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,46.1008,14.8554
+Bukhara,1553,Historical,Couple,7,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",39.7266,64.3913
+Berlin Central,3820,City,Solo,5,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",52.4969,13.3789
+Scotland Highlands,746,Mountains,Couple,5,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,57.3447,-4.2839
+Ooty Hills East,725,Mountains,Family,3,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",11.4042,76.6904
+Slovenia East,1219,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",46.0838,14.8397
+Hong Kong,2772,City,Couple,4,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",22.2483,114.1674
+Athens 9,2914,Historical,Family,7,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",33.9635,-83.3662
+Nice Coast,3896,Beach,Family,4,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-30.8719,30.3733
+Angkor Wat 3,2938,Historical,Couple,6,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",13.4266,103.8281
+Kashmir Valley,1812,Mountains,Solo,8,A mountain retreat with fresh air and adventure activities. Good for independent travel.,25.2288,55.2691
+Teotihuacan,2750,Historical,Couple,4,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",19.6874,-98.921
+Phuket,5145,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,7.9451,98.3917
+Sikkim,2040,Mountains,Family,4,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",27.5848,88.4689
+Berlin,3723,City,Friends,10,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",52.4841,13.3573
+New Zealand,2412,Nature,Family,3,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-41.5358,172.823
+Uganda,1814,Nature,Couple,6,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,1.5416,32.2002
+Alps Village,1816,Mountains,Solo,4,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",33.9824,-83.3651
+Munnar,1346,Nature,Solo,11,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",10.0593,77.0297
+Dubai Coast 6,2403,Beach,Couple,4,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",25.2454,55.2648
+London North,2728,City,Solo,12,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",51.5248,-0.1648
+Vienna 8,1533,City,Friends,11,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",48.2053,16.4062
+Kashmir Valley,3447,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",25.2966,55.3324
+Kyoto,1871,Historical,Friends,7,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",35.0483,135.7937
+Tulum,3977,Beach,Family,9,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",20.4542,-87.6505
+Rome East,2546,Historical,Solo,2,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",41.9386,12.5077
+Scotland Highlands,2780,Mountains,Couple,3,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",57.3781,-4.2885
+Los Angeles,2982,City,Family,9,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,34.0562,-118.2238
+Zanzibar,4951,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-6.1358,39.3491
+Bhutan,2823,Nature,Friends,8,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,27.5443,90.4679
+Chicago,1268,City,Friends,11,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.919,-87.5766
+Dublin 2,1521,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",53.3346,-6.2868
+Pantanal,2524,Nature,Family,3,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-17.649,-57.4341
+San Francisco,3506,City,Couple,4,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",37.7678,-122.3649
+Galapagos 5,1301,Nature,Friends,6,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,40.6638,-3.3221
+Andes Central,1065,Mountains,Family,2,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",5.6998,-75.8792
+Banff,2948,Mountains,Family,2,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",51.1714,-115.5735
+Swiss Alps East,2468,Mountains,Couple,8,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,46.7026,8.7836
+Angkor Wat 4,1310,Historical,Couple,5,A destination full of ancient sites and local history. Great for romantic trips.,13.457,103.8767
+Andes,1881,Mountains,Couple,4,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",5.6162,-75.8329
+London,3494,City,Friends,8,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,51.5088,-0.1343
+Hampi 7,1336,Historical,Friends,5,A destination full of ancient sites and local history. Fun for group travel and activities.,15.3025,76.4381
+Ephesus 1,1361,Historical,Couple,5,A destination full of ancient sites and local history. Great for romantic trips.,37.9022,27.3142
+Hawaii 1,4365,Beach,Family,8,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",19.5495,-155.4267
+Manali Central,1027,Mountains,Friends,4,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",32.1978,77.1996
+Sydney 9,1804,City,Solo,9,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",-33.8892,151.2114
+Iceland 8,2691,Nature,Family,3,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",65.007,-18.1219
+Tanzania,1945,Nature,Friends,7,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,-6.507,35.7891
+Uganda 3,751,Nature,Family,10,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",1.5547,32.2362
+Austria Alps 3,1874,Mountains,Solo,9,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",47.2366,13.5356
+Mount Fuji,3222,Mountains,Couple,6,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",35.3678,138.6862
+Budapest,3223,City,Couple,4,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",47.4479,19.1249
+Langkawi,5320,Beach,Couple,3,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,6.3384,99.7835
+Langkawi,4138,Beach,Friends,6,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,6.342,99.7763
+Banff South,1175,Mountains,Family,2,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,51.1585,-115.5953
+Sikkim,2255,Mountains,Couple,8,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",27.6155,88.4897
+Rome,2438,Historical,Family,5,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",41.9323,12.4714
+Madagascar,3000,Nature,Friends,7,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-18.9146,46.4607
+Queenstown 4,2588,Mountains,Friends,5,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,-45.0082,168.6864
+Sri Lanka Coast,1069,Beach,Solo,4,A scenic beach getaway with water sports and sunsets. Good for independent travel.,5.925,80.4743
+Kuala Lumpur,2239,City,Friends,5,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",3.1167,101.7337
+Budapest,1032,City,Solo,11,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",47.4864,19.1644
+Amazon Rainforest,3188,Nature,Friends,12,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",-5.4322,-74.3517
+Alps Village,3316,Mountains,Solo,9,A mountain retreat with fresh air and adventure activities. Good for independent travel.,33.9581,-83.3753
+Phuket,1511,Beach,Family,9,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",7.9775,98.3687
+Himachal Hills,984,Mountains,Friends,9,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",0.0,0.0
+Kyoto 4,2814,Historical,Couple,8,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",34.9755,135.7964
+Zurich,3730,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",47.4055,8.5001
+Canada Wilderness,576,Nature,Friends,10,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,51.1967,-115.5704
+Istanbul Old Town 1,1950,Historical,Couple,5,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.0921,19.9875
+Bukhara,2254,Historical,Friends,8,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",39.7511,64.3782
+Bukhara,2923,Historical,Solo,6,A destination full of ancient sites and local history. Good for independent travel.,39.7338,64.3778
+Hong Kong East,2296,City,Solo,10,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",22.3259,114.1192
+Santorini,4147,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,36.4164,25.4835
+Sikkim,3291,Mountains,Solo,9,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",27.6066,88.4941
+Chicago,2803,City,Couple,8,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",41.9034,-87.6278
+Andaman Islands,651,Nature,Solo,8,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",12.5939,92.881
+Singapore,3577,City,Friends,10,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",1.3788,103.7714
+Langkawi,4860,Beach,Solo,3,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,6.3527,99.8148
+Copenhagen 3,1198,City,Family,9,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",55.7341,12.6169
+New York,3237,City,Friends,11,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",40.6815,-74.0047
+Nepal Himalayas,1194,Mountains,Family,4,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",27.939,86.9486
+Sri Lanka Coast,1989,Beach,Solo,7,A scenic beach getaway with water sports and sunsets. Good for independent travel.,5.9381,80.4796
+Kodaikanal,2496,Mountains,Couple,5,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",10.2525,77.5176
+Pantanal,564,Nature,Couple,10,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-17.6252,-57.4218
+Madrid,2504,City,Family,9,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,40.41,-3.6859
+Ooty Hills 1,2387,Mountains,Friends,5,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",11.369,76.6668
+Jaipur 1,1833,Historical,Solo,4,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",26.9418,75.8353
+Goa,3964,Beach,Solo,6,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,15.3354,74.0789
+Goa,4886,Beach,Couple,10,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,15.2872,74.0961
+Patagonia,2480,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",31.5821,-110.7573
+Zurich,1447,City,Couple,2,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",47.3861,8.5007
+Gold Coast,4432,Beach,Family,6,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-28.05,153.4372
+Goa,4379,Beach,Couple,6,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",15.2801,74.0665
+Sikkim Nature,2285,Nature,Solo,5,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",27.3396,88.5759
+Gulmarg,1495,Mountains,Friends,7,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",34.008,74.4376
+Madrid North,1949,City,Solo,4,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",40.3844,-3.7478
+Sri Lanka Coast 3,3417,Beach,Couple,5,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,5.9837,80.4993
+Phuket South,5274,Beach,Friends,10,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",7.9549,98.3832
+Chicago South,3815,City,Friends,5,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.8389,-87.613
+Nice Coast,5699,Beach,Couple,3,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",-30.7983,30.3886
+Iceland West,2675,Nature,Friends,9,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",64.988,-18.0894
+Phuket,4331,Beach,Solo,6,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,7.8986,98.3259
+Paris 8,3540,City,Friends,6,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,48.8741,2.3653
+Costa Rica,2399,Nature,Friends,5,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,10.2943,-84.1131
+Rome,2176,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,41.8735,12.4402
+Istanbul Old Town 1,931,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.093,19.9822
+Banff,2268,Mountains,Solo,7,A mountain retreat with fresh air and adventure activities. Good for independent travel.,51.1909,-115.5409
+Zanzibar,5593,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,-6.1426,39.3352
+Hong Kong,3820,City,Friends,11,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",22.3177,114.1753
+Ooty Hills,1835,Mountains,Friends,2,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,11.4449,76.7255
+Samarkand,2525,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,39.6965,66.9911
+Madagascar North,1271,Nature,Solo,10,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-18.948,46.4852
+Aspen North,1374,Mountains,Solo,6,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",39.146,-106.8571
+Hawaii Central,3401,Beach,Solo,9,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",19.6348,-155.4157
+Hampi,1794,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",15.3428,76.4173
+Andes 9,3385,Mountains,Family,7,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,5.685,-75.9272
+Teotihuacan East,1855,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,19.7339,-98.8918
+Banff 3,2146,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",51.1796,-115.5851
+Uganda,1218,Nature,Couple,5,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",1.5345,32.2138
+Queenstown,2505,Mountains,Couple,6,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",-45.0674,168.627
+Kuala Lumpur 8,2208,City,Family,4,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",3.1805,101.7147
+Uganda West,602,Nature,Solo,9,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",1.5327,32.1889
+Maldives 3,3421,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,3.7233,73.2101
+Varanasi,2561,Historical,Solo,2,A destination full of ancient sites and local history. Good for independent travel.,25.3797,82.9603
+Amsterdam,2626,City,Couple,7,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,52.3733,4.8463
+Nice Coast 2,3276,Beach,Couple,6,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",-30.8549,30.399
+Sydney,1596,City,Friends,9,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,-33.8775,151.2309
+Nepal Himalayas,2451,Mountains,Couple,7,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,27.976,86.8714
+Scotland Highlands South,2525,Mountains,Family,3,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,57.2878,-4.2638
+Himachal Hills,2396,Mountains,Friends,4,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",0.0,0.0
+Sikkim North,970,Mountains,Family,8,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",27.6333,88.4292
+Andes,2976,Mountains,Couple,9,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",5.6275,-75.8641
+Teotihuacan East,772,Historical,Friends,8,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",19.6838,-98.9122
+Jerusalem East,610,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",31.8228,35.2249
+Andes,2714,Mountains,Couple,5,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,5.6876,-75.9101
+Budapest,3180,City,Family,9,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,47.5292,19.1688
+Kyoto,2699,Historical,Family,7,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",35.016,135.8133
+Iceland,1809,Nature,Couple,10,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",65.0289,-18.1268
+Scotland Highlands,3306,Mountains,Friends,7,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",57.3189,-4.259
+Sydney 2,3939,City,Couple,12,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",-33.8702,151.1931
+Tanzania 2,1733,Nature,Family,7,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-6.4962,35.7755
+Gulmarg East,1260,Mountains,Solo,6,A mountain retreat with fresh air and adventure activities. Good for independent travel.,34.0629,74.3532
+Goa 9,2266,Beach,Couple,6,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,15.3373,74.0896
+Munnar,2209,Nature,Solo,10,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",10.111,77.0547
+Ephesus,2085,Historical,Family,3,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",37.9821,27.297
+Swiss Alps,1610,Mountains,Solo,4,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",46.6151,8.7728
+Maui North,4480,Beach,Solo,4,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",20.8114,-156.2807
+Singapore Central,934,City,Solo,12,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",1.3429,103.86
+Banff 2,1935,Mountains,Solo,2,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",51.1487,-115.5299
+Kenya Safari,1939,Nature,Couple,3,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,-1.8066,36.8244
+Scotland Highlands,2750,Mountains,Couple,5,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",57.3195,-4.2307
+Sydney 3,3731,City,Couple,5,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",-33.8716,151.2106
+Zurich East,2865,City,Couple,9,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,47.4063,8.5126
+Dubai,2354,City,Family,8,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",25.1069,55.2086
+San Francisco,1306,City,Family,9,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",37.8179,-122.4553
+Patagonia West,1036,Mountains,Solo,7,A mountain retreat with fresh air and adventure activities. Good for independent travel.,31.5278,-110.7132
+Jaipur,2418,Historical,Family,3,A destination full of ancient sites and local history. Comfortable for family travel.,26.9632,75.8348
+Phuket,4010,Beach,Friends,5,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",7.9385,98.3782
+Samarkand 7,1088,Historical,Solo,3,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",39.6348,66.9512
+Phuket,2630,Beach,Family,8,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,7.9748,98.355
+Bukhara,2983,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,39.7563,64.4241
+Pantanal,2594,Nature,Friends,7,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-17.6704,-57.4188
+Sikkim,1645,Mountains,Friends,4,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",27.5655,88.4663
+Rome,2167,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",41.9325,12.4484
+Kerala,2629,Nature,Solo,10,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,10.3036,76.5224
+Bukhara,2821,Historical,Family,4,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",39.7826,64.4252
+Kyoto West,2443,Historical,Friends,4,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",35.0406,135.8106
+Dubai,3692,City,Family,4,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",25.0924,55.2022
+Bukhara 9,2930,Historical,Solo,7,"Ideal for museums, architecture and timeless charm. Good for independent travel.",39.7395,64.3984
+Bukhara West,2675,Historical,Couple,2,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",39.7853,64.4565
+Jaipur 1,1765,Historical,Family,4,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",26.9198,75.8366
+Mauritius,5783,Beach,Family,3,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-20.2266,57.5612
+Scotland Highlands,2138,Mountains,Friends,2,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",57.3225,-4.2219
+Queenstown,968,Mountains,Solo,6,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",-45.0161,168.6151
+Tanzania Central,2387,Nature,Solo,9,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-6.5506,35.8341
+Madrid 7,3208,City,Friends,2,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",40.4362,-3.7041
+Queenstown South,2700,Mountains,Solo,3,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",-45.0453,168.6327
+Himachal Hills,2188,Mountains,Family,8,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",0.0,0.0
+Dubai Coast,1389,Beach,Family,7,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,25.2623,55.2728
+Madrid 2,3224,City,Solo,7,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,40.4206,-3.74
+Luxor 5,2022,Historical,Couple,8,A destination full of ancient sites and local history. Great for romantic trips.,25.6565,32.6758
+Angkor Wat 5,1419,Historical,Family,5,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",13.4086,103.8204
+Angkor Wat 3,676,Historical,Couple,7,A destination full of ancient sites and local history. Great for romantic trips.,13.3856,103.8299
+Gold Coast 1,5364,Beach,Family,9,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,-28.0112,153.3892
+Alps Village East,1684,Mountains,Couple,4,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,33.9539,-83.4276
+Hong Kong,2489,City,Couple,6,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,22.2655,114.1725
+Sri Lanka Rainforest,1476,Nature,Friends,4,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",6.4088,80.5425
+Alps Village,2993,Mountains,Friends,8,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",33.9356,-83.4385
+Gulmarg,1758,Mountains,Solo,6,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",34.0934,74.4087
+Rome,943,Historical,Solo,4,A destination full of ancient sites and local history. Good for independent travel.,41.8759,12.4493
+Aspen,1275,Mountains,Friends,5,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",39.1584,-106.7839
+Coorg,2533,Nature,Family,4,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",12.4066,75.6847
+Pantanal,2232,Nature,Couple,6,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-17.6592,-57.4359
+Alps Village,1741,Mountains,Friends,2,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",33.9067,-83.4471
+Istanbul,2745,City,Friends,12,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",41.0525,28.9383
+Ephesus,686,Historical,Family,7,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",37.9464,27.3779
+Cancun,3533,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",21.1722,-86.855
+Rome,1646,Historical,Friends,4,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",41.8819,12.4365
+Gold Coast East,4328,Beach,Family,3,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-28.0312,153.3737
+Varanasi 5,1011,Historical,Friends,8,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",25.3285,82.9861
+Andes North,2556,Mountains,Family,2,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",5.6173,-75.8537
+Maldives,2639,Beach,Friends,7,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,3.7692,73.2004
+Hawaii East,5866,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,19.6191,-155.4272
+Cancun,5858,Beach,Couple,8,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",21.1509,-86.833
+Himachal Hills 1,2245,Mountains,Friends,5,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",0.0,0.0
+Sri Lanka Rainforest,2394,Nature,Solo,6,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",6.4352,80.4602
+Bhutan 3,1111,Nature,Family,4,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",27.5179,90.5385
+Madrid,3967,City,Friends,9,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,40.4112,-3.6696
+Seychelles West,3358,Beach,Family,10,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,-4.6487,55.4508
+Kenya Safari,1275,Nature,Family,9,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-1.8315,36.7738
+Mount Fuji 6,3230,Mountains,Couple,9,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",35.3644,138.7766
+Cairo,2520,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",30.0786,31.2152
+Luxor,899,Historical,Family,2,A destination full of ancient sites and local history. Comfortable for family travel.,25.6602,32.6029
+Langkawi 5,5967,Beach,Family,3,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,6.3296,99.7623
+Teotihuacan 1,2119,Historical,Friends,3,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",19.7248,-98.8841
+Himachal Hills,2089,Mountains,Friends,9,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",0.0,0.0
+Bhutan,1566,Nature,Couple,4,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",27.5443,90.5555
+Scotland Highlands 5,1858,Mountains,Friends,6,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,57.3085,-4.2082
+Machu Picchu South,2612,Historical,Family,8,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",-13.1587,-72.5046
+Maui,2883,Beach,Solo,5,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,20.7987,-156.2922
+Luxor 6,2627,Historical,Solo,2,A destination full of ancient sites and local history. Good for independent travel.,25.7275,32.6799
+Bukhara,1206,Historical,Solo,2,A destination full of ancient sites and local history. Good for independent travel.,39.7532,64.3771
+Santorini 1,5614,Beach,Family,6,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,36.4308,25.4975
+Miami Beach,3016,Beach,Solo,10,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",25.7848,-80.1748
+Amsterdam,3218,City,Family,3,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",52.3512,4.9089
+Bukhara,1703,Historical,Friends,6,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",39.8164,64.4118
+Andaman Islands,2831,Nature,Family,5,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",12.5858,92.7925
+Chicago West,3041,City,Solo,11,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",41.8355,-87.6303
+Bora Bora South,1730,Beach,Friends,3,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-16.5318,-151.7424
+Gulmarg 5,1922,Mountains,Solo,9,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",34.0739,74.4049
+Manali West,2799,Mountains,Family,5,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,32.2064,77.2208
+Queenstown East,1069,Mountains,Friends,8,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",-45.0028,168.6746
+Cairo,2702,Historical,Solo,4,A destination full of ancient sites and local history. Good for independent travel.,30.0008,31.2512
+Coorg West,1690,Nature,Solo,10,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",12.4123,75.68
+Maui 1,3036,Beach,Family,9,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,20.7784,-156.2626
+Sydney West,2891,City,Solo,8,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,-33.8843,151.2486
+Canada Wilderness,1543,Nature,Family,12,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",51.18,-115.6196
+Machu Picchu,2209,Historical,Couple,2,A destination full of ancient sites and local history. Great for romantic trips.,-13.1268,-72.5247
+Andaman Islands,3055,Nature,Friends,7,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",12.5737,92.858
+Chicago,3558,City,Family,3,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",41.8936,-87.6254
+Kyoto West,1303,Historical,Solo,7,"Ideal for museums, architecture and timeless charm. Good for independent travel.",35.0316,135.7582
+Sikkim Nature,3033,Nature,Family,12,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",27.3281,88.5483
+Maui,2563,Beach,Solo,4,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,20.7661,-156.3435
+Petra,2384,Historical,Couple,8,A destination full of ancient sites and local history. Great for romantic trips.,30.3743,35.4888
+Petra,2328,Historical,Friends,2,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",30.3239,35.4276
+Bukhara,680,Historical,Friends,8,A destination full of ancient sites and local history. Fun for group travel and activities.,39.7788,64.3653
+Pantanal North,1867,Nature,Solo,3,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-17.6749,-57.4589
+Slovenia 8,651,Nature,Family,10,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,46.1698,14.8486
+Sikkim Nature 7,748,Nature,Couple,11,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",27.3407,88.5805
+New Zealand West,3155,Nature,Family,9,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-41.5164,172.7925
+Alps Village East,785,Mountains,Friends,4,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,33.9709,-83.4016
+Jerusalem,1989,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",31.7825,35.1769
+Luxor,2534,Historical,Family,8,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",25.6537,32.6879
+Kuala Lumpur 3,1328,City,Friends,4,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",3.1789,101.6678
+Los Angeles 4,2822,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",34.0578,-118.2654
+Bangkok 3,2262,City,Family,12,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",13.7484,100.4881
+Istanbul 2,1266,City,Friends,11,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",40.9656,28.9556
+Istanbul Old Town,2055,Historical,Family,8,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",50.046,19.9915
+Slovenia,706,Nature,Solo,10,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,46.1306,14.803
+Kerala,2577,Nature,Solo,4,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",10.3533,76.4843
+Dubai Coast,5144,Beach,Friends,10,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",25.3228,55.2945
+Goa North,4597,Beach,Couple,9,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",15.3339,74.1192
+Ooty Hills,1049,Mountains,Couple,6,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",11.4119,76.6604
+Maui West,2869,Beach,Friends,5,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",20.8213,-156.3171
+Madagascar,2312,Nature,Solo,5,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-18.9298,46.426
+Kashmir Valley,1373,Mountains,Friends,8,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",25.319,55.2994
+Nice Coast 7,5258,Beach,Solo,7,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",-30.7856,30.3646
+Scotland Highlands,1845,Mountains,Solo,4,"Perfect for trekking, snow views and peaceful stays. Good for independent travel.",57.3131,-4.2984
+Slovenia,1914,Nature,Friends,9,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",46.0764,14.7658
+Tanzania,1016,Nature,Friends,11,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-6.5135,35.8088
+Munnar,2635,Nature,Family,8,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,10.1366,77.0871
+Canada Wilderness,1744,Nature,Couple,9,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",51.1276,-115.5827
+Ooty Hills,1207,Mountains,Family,2,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",11.3969,76.715
+Berlin 9,1767,City,Family,11,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",52.4709,13.3664
+Patagonia,3431,Mountains,Family,4,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",31.5469,-110.739
+Ooty Hills North,2179,Mountains,Couple,9,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,11.4189,76.6655
+Rome West,2540,City,Solo,4,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",41.9411,12.479
+Ooty Hills East,3109,Mountains,Friends,8,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,11.4404,76.6554
+Luxor South,1191,Historical,Couple,6,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",25.7078,32.67
+Coorg,1370,Nature,Solo,10,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,12.3843,75.6264
+Manali,1151,Mountains,Friends,3,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",32.291,77.171
+Goa East,3497,Beach,Family,8,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,15.3233,74.0434
+Maui,1398,Beach,Friends,7,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,20.7875,-156.3009
+Rome North,2842,Historical,Solo,4,A destination full of ancient sites and local history. Good for independent travel.,41.8576,12.5009
+Uganda,1883,Nature,Friends,9,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,1.5631,32.1965
+Hampi 2,1210,Historical,Friends,8,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",15.3851,76.4999
+Bhutan,1453,Nature,Friends,9,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,27.5382,90.5516
+Istanbul Old Town 5,1278,Historical,Solo,7,"Ideal for museums, architecture and timeless charm. Good for independent travel.",50.0929,19.9697
+Hong Kong 1,1588,City,Solo,11,A fast-paced city with iconic landmarks and great transit. Good for independent travel.,22.3153,114.1683
+Langkawi,1985,Beach,Solo,5,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,6.3595,99.7588
+Andaman Islands 7,2685,Nature,Solo,12,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",12.6417,92.8028
+Rome 1,2390,Historical,Family,3,A destination full of ancient sites and local history. Comfortable for family travel.,41.8485,12.525
+Istanbul Old Town,1069,Historical,Solo,2,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",50.0397,19.9861
+Cancun,2263,Beach,Solo,7,A scenic beach getaway with water sports and sunsets. Good for independent travel.,21.1696,-86.8598
+Himachal Hills,939,Mountains,Solo,6,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",0.0,0.0
+Varanasi,2138,Historical,Family,8,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",25.3571,82.9665
+Galapagos,2519,Nature,Couple,11,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",40.6815,-3.3694
+Istanbul,3065,City,Friends,8,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",41.0551,28.9747
+Maldives,5538,Beach,Family,4,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",3.6777,73.1808
+Bhutan,843,Nature,Friends,11,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,27.5138,90.5351
+Bora Bora North,5547,Beach,Friends,10,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-16.5467,-151.7159
+Himachal Hills East,946,Mountains,Solo,9,A mountain retreat with fresh air and adventure activities. Good for independent travel.,0.0,0.0
+Nice Coast,1372,Beach,Family,5,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,-30.8329,30.403
+Kyoto 4,2879,Historical,Couple,4,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",35.0099,135.7921
+Kashmir Valley,2554,Mountains,Family,6,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",25.2491,55.3466
+Jaipur 1,665,Historical,Family,7,A destination full of ancient sites and local history. Comfortable for family travel.,26.9149,75.7921
+Copenhagen West,3555,City,Solo,4,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",55.689,12.539
+New Zealand,2706,Nature,Solo,3,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",-41.5369,172.8298
+Madagascar,1225,Nature,Friends,3,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",-18.9709,46.4914
+Rome,681,Historical,Couple,8,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",41.921,12.4961
+Uganda,1459,Nature,Couple,10,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",1.4993,32.2356
+Kenya Safari 5,1303,Nature,Solo,9,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,-1.8024,36.8259
+Machu Picchu,2917,Historical,Couple,7,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",-13.1844,-72.5518
+Phuket,3126,Beach,Couple,6,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,7.8975,98.3992
+Madrid West,3588,City,Family,10,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,40.4431,-3.7496
+Edinburgh 2,2571,City,Family,8,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",55.9557,-3.1422
+Ephesus 7,1519,Historical,Solo,2,A destination full of ancient sites and local history. Good for independent travel.,37.9298,27.3113
+Swiss Alps,1497,Mountains,Friends,7,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",46.6383,8.7642
+Cairo,1406,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",30.0548,31.2445
+Paris,2569,City,Friends,2,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",48.8733,2.3295
+Lisbon,2195,City,Couple,2,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",38.6643,-9.1729
+Slovenia,891,Nature,Friends,10,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",46.0958,14.8048
+Amsterdam South,3640,City,Family,3,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",52.3504,4.8919
+Austria Alps,969,Mountains,Friends,3,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,47.2419,13.5451
+Prague Old Town Central,2283,Historical,Solo,3,A destination full of ancient sites and local history. Good for independent travel.,50.0717,14.383
+Luxor 8,1991,Historical,Solo,7,A destination full of ancient sites and local history. Good for independent travel.,25.7278,32.6222
+Kenya Safari 2,920,Nature,Solo,3,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",-1.817,36.792
+Amazon Rainforest,1955,Nature,Family,9,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-5.4944,-74.364
+Bali 7,2045,Beach,Solo,7,A scenic beach getaway with water sports and sunsets. Good for independent travel.,-8.2202,115.1585
+Patagonia,1303,Mountains,Couple,9,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,31.5775,-110.8029
+Sydney,1034,City,Couple,5,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",-33.8976,151.1885
+Rocky Mountains,3323,Mountains,Couple,5,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",43.365,-110.9023
+Hampi East,2969,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,15.3441,76.4702
+Goa,1345,Beach,Friends,10,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,15.2981,74.1115
+Gold Coast,2958,Beach,Couple,10,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",-28.0493,153.4459
+Maldives 1,1081,Beach,Family,4,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,3.7045,73.2389
+Dubai Coast,2592,Beach,Friends,8,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,25.3169,55.3469
+Himachal Hills,1773,Mountains,Couple,4,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",0.0,0.0
+Maldives North,3144,Beach,Couple,4,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,3.739,73.1983
+Istanbul,2049,City,Couple,9,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,40.9877,28.981
+Hawaii,1535,Beach,Friends,4,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,19.5493,-155.4751
+Pantanal,1802,Nature,Family,12,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-17.6771,-57.4437
+Kenya Safari,1108,Nature,Family,8,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",-1.8388,36.8062
+Galapagos,1357,Nature,Friends,4,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,40.6995,-3.3796
+Samarkand,2642,Historical,Family,6,"Ideal for museums, architecture and timeless charm. Comfortable for family travel.",39.6062,66.9333
+Ooty Hills 7,2726,Mountains,Friends,9,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",11.4048,76.6565
+Singapore,1631,City,Couple,9,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",1.3301,103.7952
+Prague Old Town,2132,Historical,Couple,4,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",50.0403,14.4427
+Alps Village 9,1642,Mountains,Family,2,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,33.9602,-83.3939
+Hampi,2371,Historical,Friends,5,A destination full of ancient sites and local history. Fun for group travel and activities.,15.3818,76.5078
+Rome,2409,Historical,Couple,3,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",41.9192,12.4383
+Ooty Hills,1832,Mountains,Solo,5,A mountain retreat with fresh air and adventure activities. Good for independent travel.,11.4446,76.6958
+Toronto,2167,City,Couple,5,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,43.6049,-79.3727
+Rocky Mountains,2924,Mountains,Couple,6,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,43.3189,-110.9253
+Prague Old Town Central,2533,Historical,Solo,7,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",50.0938,14.3971
+Seychelles,2914,Beach,Friends,10,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-4.6505,55.4765
+Miami Beach,2716,Beach,Friends,10,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",25.7774,-80.1496
+Nice Coast,3503,Beach,Couple,3,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-30.8089,30.3872
+Luxor 1,2802,Historical,Friends,4,"Rich in heritage, monuments and cultural experiences. Fun for group travel and activities.",25.6786,32.6213
+Maui West,5654,Beach,Family,9,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,20.768,-156.2771
+Pantanal,2444,Nature,Couple,4,"A nature-rich trip with forests, wildlife and calm landscapes. Great for romantic trips.",-17.6635,-57.4067
+Goa,1262,Beach,Couple,10,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,15.2844,74.0411
+Teotihuacan Central,1554,Historical,Couple,4,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",19.7266,-98.8548
+Ooty Hills,1403,Mountains,Solo,7,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",11.3789,76.7221
+Zanzibar,4917,Beach,Friends,4,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-6.0913,39.3174
+Andes 4,1350,Mountains,Friends,6,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",5.6688,-75.8847
+Istanbul Old Town West,630,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.0378,19.9245
+Hawaii 8,5663,Beach,Family,10,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,19.6414,-155.3973
+Prague West,2220,City,Friends,6,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",50.0739,14.4672
+Tulum South,4750,Beach,Friends,9,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,20.4082,-87.6959
+Seoul,1921,City,Couple,12,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,37.5784,126.9704
+Langkawi,5528,Beach,Friends,4,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,6.3837,99.7615
+Andes,1375,Mountains,Friends,6,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,5.7023,-75.8524
+Rome West,2361,City,Friends,7,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",41.8488,12.4577
+Barcelona East,3704,City,Solo,4,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",41.3597,2.1818
+Rome,3722,City,Couple,9,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",41.8949,12.4824
+Maldives North,2451,Beach,Solo,7,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,3.6992,73.2004
+Kuala Lumpur,3574,City,Solo,6,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",3.1493,101.6683
+Bali Central,4621,Beach,Couple,3,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-8.2372,115.2162
+Alps Village,3150,Mountains,Solo,2,"Great for hiking, cool weather and scenic viewpoints. Good for independent travel.",33.982,-83.4465
+Dolomites,1074,Mountains,Couple,2,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,46.3187,12.0605
+Phuket South,1791,Beach,Couple,5,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,7.949,98.3778
+Dublin 4,2121,City,Family,10,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",53.3433,-6.2227
+Kyoto,1475,Historical,Couple,2,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",35.0326,135.7774
+Varanasi,2194,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",25.3682,82.9808
+Austria Alps,879,Mountains,Family,3,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",47.2323,13.5813
+Kyoto Central,1631,Historical,Couple,2,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",35.0591,135.7875
+Sri Lanka Coast,3604,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,5.984,80.455
+Andaman Islands,2593,Nature,Friends,6,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",12.6015,92.88
+Kerala,1468,Nature,Family,9,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",10.3349,76.5006
+Sikkim,1527,Mountains,Family,4,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",27.5559,88.4136
+Andaman Islands 1,1049,Nature,Family,7,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",12.6363,92.8008
+Swiss Alps 4,2056,Mountains,Couple,7,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",46.6731,8.7348
+Bora Bora,5271,Beach,Friends,8,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-16.5493,-151.7212
+Cairo,813,Historical,Couple,7,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",30.0731,31.1941
+Nice Coast,2935,Beach,Couple,4,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-30.8282,30.3617
+Bora Bora 5,2445,Beach,Friends,6,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-16.4947,-151.7585
+Cancun,1655,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",21.1548,-86.7954
+Luxor West,1238,Historical,Friends,8,A destination full of ancient sites and local history. Fun for group travel and activities.,25.6688,32.6952
+San Francisco,3237,City,Family,10,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",37.7642,-122.4395
+Hampi 9,2457,Historical,Family,4,A destination full of ancient sites and local history. Comfortable for family travel.,15.3743,76.4171
+Istanbul,3728,City,Couple,9,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",40.9684,28.9977
+Edinburgh,2812,City,Family,8,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",55.9982,-3.1757
+Teotihuacan 7,2274,Historical,Solo,2,"Rich in heritage, monuments and cultural experiences. Good for independent travel.",19.7327,-98.8756
+Miami Beach East,3855,Beach,Family,10,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",25.7529,-80.1362
+Bora Bora,1282,Beach,Friends,8,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-16.4683,-151.7528
+Petra,1613,Historical,Family,6,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",30.2961,35.4446
+Hong Kong,2428,City,Friends,11,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",22.3284,114.1582
+Miami Beach Central,3475,Beach,Family,9,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,25.7976,-80.1596
+New York,1384,City,Family,6,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",40.7289,-73.9737
+Langkawi West,1793,Beach,Solo,4,A scenic beach getaway with water sports and sunsets. Good for independent travel.,6.3758,99.8041
+Andes,1422,Mountains,Couple,7,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,5.6917,-75.8626
+Hawaii,4691,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,19.6103,-155.3899
+Seychelles,4348,Beach,Family,10,A relaxing escape with clear waters and sunny beaches. Comfortable for family travel.,-4.7012,55.4715
+Aspen,1210,Mountains,Friends,6,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",39.1614,-106.8133
+Langkawi,1825,Beach,Friends,3,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,6.4058,99.8212
+Iceland 7,1364,Nature,Solo,11,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,64.9405,-18.0881
+Sikkim,2080,Mountains,Friends,8,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,27.6329,88.4408
+Mauritius,4100,Beach,Friends,3,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-20.2613,57.5964
+Prague Old Town,705,Historical,Couple,6,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",50.1271,14.4504
+Mauritius,4892,Beach,Friends,9,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-20.3212,57.5719
+Banff South,3476,Mountains,Family,9,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",51.2075,-115.5539
+New Zealand,2252,Nature,Family,10,A scenic destination for nature lovers and outdoor activities. Comfortable for family travel.,-41.4893,172.8086
+Maui 5,2047,Beach,Solo,10,"Ideal for swimming, resorts and coastal relaxation. Good for independent travel.",20.7743,-156.328
+Gold Coast,4949,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,-27.958,153.4234
+New York South,3731,City,Friends,2,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",40.6862,-73.9733
+Cancun,2008,Beach,Friends,5,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,21.1989,-86.8669
+Dolomites 7,3337,Mountains,Solo,7,A mountain retreat with fresh air and adventure activities. Good for independent travel.,46.2546,12.0816
+Bora Bora,1947,Beach,Family,7,"Ideal for swimming, resorts and coastal relaxation. Comfortable for family travel.",-16.4577,-151.6993
+Kenya Safari South,2846,Nature,Solo,8,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,-1.8782,36.8263
+Prague South,3216,City,Solo,10,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",50.0674,14.3771
+Gulmarg North,1136,Mountains,Couple,8,A mountain retreat with fresh air and adventure activities. Great for romantic trips.,34.0698,74.3862
+Dubai Coast,5094,Beach,Couple,10,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,25.306,55.2796
+Budapest 5,2065,City,Family,10,"Perfect for sightseeing, culture and modern attractions. Comfortable for family travel.",47.4622,19.1457
+Langkawi,4085,Beach,Family,3,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,6.402,99.7729
+Bali,4993,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,-8.2753,115.1686
+Varanasi,2539,Historical,Friends,4,"Ideal for museums, architecture and timeless charm. Fun for group travel and activities.",25.36,82.9585
+Patagonia,2944,Mountains,Couple,8,"Perfect for trekking, snow views and peaceful stays. Great for romantic trips.",31.568,-110.7549
+Edinburgh South,2674,City,Family,12,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,55.9829,-3.2056
+Teotihuacan,1459,Historical,Couple,3,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",19.6503,-98.8869
+Kerala,2042,Nature,Couple,9,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",10.3744,76.4862
+Machu Picchu,1080,Historical,Solo,6,"Ideal for museums, architecture and timeless charm. Good for independent travel.",-13.1517,-72.5883
+Jerusalem,1086,Historical,Solo,3,"Ideal for museums, architecture and timeless charm. Good for independent travel.",31.8052,35.2167
+Norway Fjords,3197,Nature,Friends,4,A scenic destination for nature lovers and outdoor activities. Fun for group travel and activities.,61.0263,5.7599
+Ephesus North,1091,Historical,Solo,2,"Ideal for museums, architecture and timeless charm. Good for independent travel.",37.9353,27.3448
+Sri Lanka Rainforest,2903,Nature,Solo,12,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,6.3839,80.5317
+Los Angeles 5,2372,City,Couple,9,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",34.0813,-118.2386
+Istanbul,3723,City,Solo,10,"Perfect for sightseeing, culture and modern attractions. Good for independent travel.",41.0459,29.0056
+Munnar,761,Nature,Friends,11,"A nature-rich trip with forests, wildlife and calm landscapes. Fun for group travel and activities.",10.0572,77.023
+Dubai,821,City,Couple,10,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",25.0906,55.1517
+Nice Coast,2320,Beach,Couple,4,A relaxing escape with clear waters and sunny beaches. Great for romantic trips.,-30.8513,30.4177
+Sydney,2289,City,Family,10,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",-33.8417,151.1991
+Banff,3399,Mountains,Family,9,"Perfect for trekking, snow views and peaceful stays. Comfortable for family travel.",51.2095,-115.5611
+Austria Alps,1105,Mountains,Couple,2,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",47.2717,13.5589
+Rocky Mountains,3166,Mountains,Couple,5,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",43.4052,-110.9283
+Bhutan,2752,Nature,Solo,7,"Ideal for eco-tourism, adventure and open spaces. Good for independent travel.",27.5441,90.4629
+Cairo,2342,Historical,Family,7,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",30.065,31.1881
+Rocky Mountains,3008,Mountains,Family,4,A mountain retreat with fresh air and adventure activities. Comfortable for family travel.,43.361,-110.9429
+Rome,917,Historical,Couple,4,"Ideal for museums, architecture and timeless charm. Great for romantic trips.",41.8542,12.4921
+Bhutan,1849,Nature,Solo,4,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",27.5532,90.534
+Cancun,1802,Beach,Solo,9,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,21.1932,-86.8744
+Hawaii,5823,Beach,Family,10,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,19.5586,-155.4441
+Uganda,2988,Nature,Family,4,"Ideal for eco-tourism, adventure and open spaces. Comfortable for family travel.",1.5296,32.2376
+Mauritius 1,4906,Beach,Friends,5,A scenic beach getaway with water sports and sunsets. Fun for group travel and activities.,-20.2339,57.6119
+Maui,4103,Beach,Couple,7,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,20.8106,-156.3382
+Bhutan 8,1249,Nature,Friends,10,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",27.5574,90.4647
+Andes,1950,Mountains,Couple,3,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",5.6736,-75.9196
+Rome,1183,City,Couple,4,A fast-paced city with iconic landmarks and great transit. Great for romantic trips.,41.8543,12.4545
+Kodaikanal Central,743,Mountains,Friends,8,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,10.2076,77.454
+Munnar,2160,Nature,Solo,3,A scenic destination for nature lovers and outdoor activities. Good for independent travel.,10.0416,77.0375
+Angkor Wat 1,1600,Historical,Family,7,A destination full of ancient sites and local history. Comfortable for family travel.,13.4592,103.9029
+Hawaii 3,2432,Beach,Couple,4,"Ideal for swimming, resorts and coastal relaxation. Great for romantic trips.",19.5797,-155.4503
+Vienna,2352,City,Friends,4,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,48.2322,16.4182
+Zanzibar,3376,Beach,Solo,7,A relaxing escape with clear waters and sunny beaches. Good for independent travel.,-6.1287,39.3013
+Chicago Central,1690,City,Friends,6,A fast-paced city with iconic landmarks and great transit. Fun for group travel and activities.,41.8769,-87.5797
+Athens,624,Historical,Family,6,A destination full of ancient sites and local history. Comfortable for family travel.,33.9342,-83.3955
+Paris,3759,City,Family,4,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",48.8733,2.3369
+Bukhara Central,947,Historical,Couple,6,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",39.8062,64.3869
+Rome,1624,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,41.942,12.487
+Andes North,2897,Mountains,Couple,6,"Great for hiking, cool weather and scenic viewpoints. Great for romantic trips.",5.6764,-75.8765
+Mauritius,1047,Beach,Friends,8,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-20.2951,57.6112
+London,2524,City,Friends,7,"Perfect for sightseeing, culture and modern attractions. Fun for group travel and activities.",51.5418,-0.1688
+Manali South,2703,Mountains,Friends,9,"Perfect for trekking, snow views and peaceful stays. Fun for group travel and activities.",32.2531,77.1654
+Petra,1041,Historical,Solo,8,A destination full of ancient sites and local history. Good for independent travel.,30.3671,35.4677
+Costa Rica West,713,Nature,Couple,8,"Ideal for eco-tourism, adventure and open spaces. Great for romantic trips.",10.2573,-84.0778
+Patagonia 3,1038,Mountains,Friends,8,"Great for hiking, cool weather and scenic viewpoints. Fun for group travel and activities.",31.5635,-110.7326
+Cancun West,3158,Beach,Solo,6,A scenic beach getaway with water sports and sunsets. Good for independent travel.,21.1085,-86.8427
+Madrid,1572,City,Couple,11,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",40.4125,-3.7385
+Athens 1,1387,Historical,Family,3,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",33.9591,-83.3433
+Edinburgh,2357,City,Solo,8,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",55.9413,-3.1617
+Andes,951,Mountains,Friends,8,A mountain retreat with fresh air and adventure activities. Fun for group travel and activities.,5.691,-75.8754
+Mount Fuji,2412,Mountains,Family,5,"Great for hiking, cool weather and scenic viewpoints. Comfortable for family travel.",35.3883,138.7273
+Tokyo 5,1668,City,Family,6,"A lively urban destination with food, shopping and nightlife. Comfortable for family travel.",35.6605,139.7331
+Machu Picchu,2612,Historical,Family,4,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",-13.1554,-72.5456
+Kuala Lumpur 9,2156,City,Couple,7,"Perfect for sightseeing, culture and modern attractions. Great for romantic trips.",3.177,101.652
+Cancun,5786,Beach,Couple,9,A scenic beach getaway with water sports and sunsets. Great for romantic trips.,21.1253,-86.8132
+Kerala,2902,Nature,Solo,6,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",10.3977,76.4923
+Slovenia,1734,Nature,Family,10,"A nature-rich trip with forests, wildlife and calm landscapes. Comfortable for family travel.",46.0947,14.8646
+Seychelles,5509,Beach,Friends,7,"Ideal for swimming, resorts and coastal relaxation. Fun for group travel and activities.",-4.6921,55.4727
+Zurich 9,1077,City,Friends,9,"A lively urban destination with food, shopping and nightlife. Fun for group travel and activities.",47.3302,8.5405
+Tulum,2056,Beach,Family,7,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,20.4499,-87.6914
+Bukhara 7,1277,Historical,Solo,5,A destination full of ancient sites and local history. Good for independent travel.,39.7473,64.39
+Jaipur 3,1447,Historical,Family,3,"Rich in heritage, monuments and cultural experiences. Comfortable for family travel.",26.9235,75.7732
+Costa Rica,2563,Nature,Friends,11,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",10.2783,-84.061
+Kodaikanal,1400,Mountains,Solo,5,A mountain retreat with fresh air and adventure activities. Good for independent travel.,10.2066,77.5322
+Hong Kong,1937,City,Couple,4,"A lively urban destination with food, shopping and nightlife. Great for romantic trips.",22.3154,114.1721
+Kerala,3156,Nature,Solo,8,"A nature-rich trip with forests, wildlife and calm landscapes. Good for independent travel.",10.4007,76.5208
+Canada Wilderness,2172,Nature,Couple,12,A scenic destination for nature lovers and outdoor activities. Great for romantic trips.,51.1664,-115.5824
+Dublin,1698,City,Family,6,A fast-paced city with iconic landmarks and great transit. Comfortable for family travel.,53.3179,-6.2469
+Kerala,3178,Nature,Friends,7,"Ideal for eco-tourism, adventure and open spaces. Fun for group travel and activities.",10.3768,76.5005
+Sri Lanka Coast,2670,Beach,Family,9,A scenic beach getaway with water sports and sunsets. Comfortable for family travel.,5.9891,80.4153
+Ephesus West,2562,Historical,Couple,2,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",37.9676,27.3279
+Seychelles,2477,Beach,Friends,7,A relaxing escape with clear waters and sunny beaches. Fun for group travel and activities.,-4.6835,55.4261
+Jaipur,884,Historical,Couple,3,A destination full of ancient sites and local history. Great for romantic trips.,26.9639,75.822
+Kyoto North,648,Historical,Couple,6,"Rich in heritage, monuments and cultural experiences. Great for romantic trips.",34.9784,135.7631
+Dublin,3927,City,Solo,12,"A lively urban destination with food, shopping and nightlife. Good for independent travel.",53.3882,-6.2727
