@@ -22,38 +22,19 @@ app.use("/api/reviews", reviewRoutes);
 app.use("/api/expenses", expenseRoutes);
 app.use("/api/itinerary", itineraryRoutes);
 
-let dbError = null;
-
-if (!process.env.MONGO_URI) {
-    dbError = "MONGO_URI environment variable is missing in Render.";
-    console.error(dbError);
-} else {
+if (process.env.MONGO_URI) {
     mongoose.connect(process.env.MONGO_URI)
-      .then(() => {
-          console.log("MongoDB connected successfully");
-          dbError = null;
-      })
-      .catch((err) => {
-          console.error("MongoDB connection error:", err.message);
-          dbError = err.message;
-      });
+      .then(() => console.log("MongoDB connected successfully"))
+      .catch((err) => console.error("MongoDB connection error:", err.message));
+} else {
+    console.error("MONGO_URI environment variable is missing.");
 }
 
 app.get('/', (req, res) => {
     const isConnected = mongoose.connection.readyState === 1;
-    // Mask password in URI for safe debugging
-    let maskedUri = null;
-    if (process.env.MONGO_URI) {
-        maskedUri = process.env.MONGO_URI.replace(/:([^@]+)@/, ":****@");
-    }
-
     res.json({
         message: "Api is running",
-        database: isConnected ? "connected" : "disconnected",
-        dbState: mongoose.connection.readyState,
-        hasMongoUri: Boolean(process.env.MONGO_URI),
-        currentUri: maskedUri,
-        connectionError: dbError
+        database: isConnected ? "connected" : "disconnected"
     });
 });
 
