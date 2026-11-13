@@ -16,6 +16,11 @@ MODEL_DIR = os.path.join(BASE_DIR, "model")
 MODEL_PATH = os.path.join(MODEL_DIR, "recommender.pkl")
 CSV_PATH = os.path.join(BASE_DIR, "travel_recommendations_1200.csv")
 
+# Global variables initialized at module level
+preprocessor = None
+knn = None
+df = None
+
 def get_model():
     """Load the model bundle, or auto-train it if missing."""
     global preprocessor, knn, df
@@ -63,6 +68,9 @@ def health():
 @app.route("/recommend", methods=["POST"])
 def recommend():
     try:
+        if preprocessor is None or knn is None or df is None:
+            get_model()
+
         user_input = request.json
         user_lat = float(user_input.get("userLat") or 40.7128)
         user_lon = float(user_input.get("userLon") or -74.0060)
