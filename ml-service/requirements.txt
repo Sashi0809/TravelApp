@@ -3,6 +3,5 @@ flask-cors
 pandas
 scikit-learn
 joblib
-pymongo
 geopy
 gunicorn
