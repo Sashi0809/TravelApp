@@ -79,8 +79,9 @@ const Recommendations = () => {
       });
       setRecommendations(response.data);
     } catch (err) {
-      console.error(err);
-      setError("Failed to fetch recommendations from ML service. Make sure the Flask server is running on port 5001.");
+      console.error("ML Service Error:", err);
+      const serverMsg = err.response?.data?.error || err.response?.data?.message || err.message;
+      setError(`Failed to fetch recommendations: ${serverMsg}. (If using Render free tier, please wait ~40s on first load for it to spin up).`);
     } finally {
       setLoading(false);
     }

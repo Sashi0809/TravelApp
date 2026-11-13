@@ -1,20 +1,64 @@
+import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
 from geopy.distance import geodesic
 import joblib
+from sklearn.neighbors import NearestNeighbors
+from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
+from sklearn.compose import ColumnTransformer
 
 app = Flask(__name__)
 CORS(app)
 
-# Load model globally
-try:
-    model_bundle = joblib.load("model/recommender.pkl")
-    preprocessor = model_bundle["preprocessor"]
-    knn = model_bundle["knn"]
-    df = model_bundle["data"]
-except Exception as e:
-    print("Warning: Could not load model. Ensure train_dummy_model.py has been run.", e)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.join(BASE_DIR, "model")
+MODEL_PATH = os.path.join(MODEL_DIR, "recommender.pkl")
+CSV_PATH = os.path.join(BASE_DIR, "travel_recommendations_1200.csv")
+
+def get_model():
+    """Load the model bundle, or auto-train it if missing."""
+    global preprocessor, knn, df
+    if os.path.exists(MODEL_PATH):
+        try:
+            model_bundle = joblib.load(MODEL_PATH)
+            preprocessor = model_bundle["preprocessor"]
+            knn = model_bundle["knn"]
+            df = model_bundle["data"]
+            print("Model loaded successfully from pkl.")
+            return
+        except Exception as e:
+            print("Error loading cached model, regenerating...", e)
+
+    print("Training model from CSV...")
+    os.makedirs(MODEL_DIR, exist_ok=True)
+    df = pd.read_csv(CSV_PATH)
+    features = df[["budget", "placeType", "travelers", "duration", "latitude", "longitude"]]
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('num', MinMaxScaler(), ['budget', 'duration', 'latitude', 'longitude']),
+            ('cat', OneHotEncoder(handle_unknown='ignore'), ['placeType', 'travelers'])
+        ])
+    X = preprocessor.fit_transform(features)
+    knn = NearestNeighbors(n_neighbors=3)
+    knn.fit(X)
+    bundle = {"preprocessor": preprocessor, "knn": knn, "data": df}
+    try:
+        joblib.dump(bundle, MODEL_PATH)
+    except Exception as e:
+        print("Warning: Could not save model to disk:", e)
+    print("Model initialized and ready.")
+
+# Initialize model
+get_model()
+
+@app.route("/", methods=["GET"])
+def health():
+    return jsonify({
+        "status": "online",
+        "service": "TravelAI ML Service",
+        "model_loaded": preprocessor is not None and knn is not None
+    }), 200
 
 @app.route("/recommend", methods=["POST"])
 def recommend():
@@ -65,4 +109,5 @@ def recommend():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    app.run(port=5001, debug=True)
+    port = int(os.environ.get("PORT", 5001))
+    app.run(host="0.0.0.0", port=port, debug=True)
