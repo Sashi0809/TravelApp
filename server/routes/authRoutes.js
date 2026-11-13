@@ -1,17 +1,26 @@
 const express = require("express");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
+const mongoose = require("mongoose");
 const User = require("../models/user");
 
 const router= express.Router();
 
 function createToken(id){
-    return jwt.sign({id},process.env.JWT_SECRET,{expiresIn:"7d"});
+    return jwt.sign({id},process.env.JWT_SECRET || "default_jwt_secret",{expiresIn:"7d"});
 }
 
 router.post('/register',async (req,res)=>{
     try{
+        if (mongoose.connection.readyState !== 1) {
+            return res.status(503).json({ message: "Database is not connected. Please verify MONGO_URI in MongoDB Atlas / Render settings." });
+        }
+
         const {name, email, password}= req.body;
+
+        if (!name || !email || !password) {
+            return res.status(400).json({ message: "All fields (name, email, password) are required." });
+        }
 
         const existingUser= await User.findOne({email});
 
@@ -27,7 +36,6 @@ router.post('/register',async (req,res)=>{
             password: handlePassword,
         })
 
-
         res.status(201).json({
             _id: user._id,
             name: user.name,
@@ -35,14 +43,18 @@ router.post('/register',async (req,res)=>{
             token: createToken(user._id),
         });
     }catch(error){
-        console.log(error);
-        res.status(500).json({message: "Server error occured"});
+        console.error("Register Error:", error);
+        res.status(500).json({message: error.message || "Server error occured"});
     }
 });
 
 
 router.post('/login',async (req,res)=>{
     try{
+        if (mongoose.connection.readyState !== 1) {
+            return res.status(503).json({ message: "Database is not connected. Please verify MONGO_URI in MongoDB Atlas / Render settings." });
+        }
+
         const {email, password}= req.body;
         const user = await User.findOne({email});
         if(!user){
@@ -61,7 +73,8 @@ router.post('/login',async (req,res)=>{
             token: createToken(user._id),
         });
     }catch(error){
-        res.status(500).json({message: "server error occured"});
+        console.error("Login Error:", error);
+        res.status(500).json({message: error.message || "server error occured"});
     }
 })
 

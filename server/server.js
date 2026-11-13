@@ -22,11 +22,18 @@ app.use("/api/reviews", reviewRoutes);
 app.use("/api/expenses", expenseRoutes);
 app.use("/api/itinerary", itineraryRoutes);
 
-mongoose.connect(process.env.MONGO_URI).then(()=>{console.log("MongoDb connected")}).catch((err) => console.error(err));
+mongoose.connect(process.env.MONGO_URI)
+  .then(() => console.log("MongoDB connected successfully"))
+  .catch((err) => console.error("MongoDB connection error:", err.message));
 
-app.get('/',(req,res)=>{
-    res.send("Api is running")
-})
+app.get('/', (req, res) => {
+    const isConnected = mongoose.connection.readyState === 1;
+    res.json({
+        message: "Api is running",
+        database: isConnected ? "connected" : "disconnected",
+        dbState: mongoose.connection.readyState
+    });
+});
 
 
 
